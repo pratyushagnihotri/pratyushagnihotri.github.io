@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3593078.3593934,
+author = {Agnihotri, Pratyush and Koldehofe, Boris and Binnig, Carsten and Luthra, Manisha},
+title = {Zero-Shot Cost Models for Parallel Stream Processing},
+year = {2023},
+isbn = {9798400701931},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3593078.3593934},
+doi = {10.1145/3593078.3593934},
+abstract = {This paper addresses the challenge of predicting the level of parallelism in distributed stream processing (DSP) systems, which are essential to deal with different high workload requirements of various industries such as e-commerce, online gaming, etc., where DSP systems are extensively used. Existing DSP systems rely on either manual tuning of parallelism degree or workload-driven learned models for tuning parallelism, which is either not efficient or can lead to costly operator migrations and downtime when there are workload drifts. Thus, we argue for a learned model that can autonomously decide on the right parallelism degree while generalizing across workloads and meeting the current demands of DSP applications. We propose a novel approach that leverages zero-shot cost models to predict parallelism degree while generalizing across unseen streaming workloads out-of-the-box. To reduce training effort, we propose a rule-based strategy that selects parallelism degree and meaningful transferable features related to query workload and hardware that influences the parallelism decisions. We demonstrate the effectiveness of our strategy by evaluating it with different amount of training queries and show that it achieves lower costs for parallel continuous query processing.},
+booktitle = {Proceedings of the Sixth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management},
+articleno = {5},
+numpages = {5},
+keywords = {parallelism prediction, zero-shot cost models, distributed stream processing},
+location = {Seattle, WA, USA},
+series = {aiDM '23}
+}
