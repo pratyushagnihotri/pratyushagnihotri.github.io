@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2017-efficient-crowd-senesing
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017-10
+date: 2017-10-01
 #venue: '2017 IEEE 42nd Conference on Local Computer Networks (LCN)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/8109329'
