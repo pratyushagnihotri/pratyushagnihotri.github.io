@@ -8,13 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+| Semester          | Course                        | Role             |
+|-------------------|-------------------------------|------------------|
+| Winter Semester 2021/22 | Communication Networks 2 | Teaching Assistant |
+| Winter Semester 2022/23 | Communication Networks 2 | Teaching Assistant |
