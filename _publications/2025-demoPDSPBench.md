@@ -1,14 +1,13 @@
 ---
-title: "PANDA: performance prediction for parallel and dynamic stream processing"
+title: "Demonstration PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing"
 collection: publications
 category: conferences
-permalink: /publication/2025-demoPDSPBench
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-06-01
-#venue: '16th ACM International Conference on Distributed and Event-Based Systems'
+permalink: /publication/2024-pdspbench
+#excerpt: 'This paper is about the number 1. 📄 [PDF](http://academicpages.github.io/files/paper1.pdf) | 📚 [BibTeX](http://academicpages.github.io/files/bibtex1.bib)'
+date: 2024-08-01
+#venue: 'arXiv preprint arXiv:2504.10704'
 #slidesurl: 'http://pratyushagnihotri.github.io/files/slides1.pdf'
-paperurl: 'http://pratyushagnihotri.github.io/files/demoPDSPBench.pdf'
-bibtexurl: '📚 http://pratyushagnihotri.github.io/files/demoPDSPBench.bib'
-citation: 'Pratyush Agnihotri, Boris Koldehofe, Carsten Binnig, Manisha Luthra. (2022). &quot;PANDA: performance prediction for parallel and dynamic stream processing.&quot; <i>16th ACM International Conference on Distributed and Event-Based Systems</i>.'
-
+paperurl: '📄 http://pratyushagnihotri.github.io/files/pdspbench.pdf'
+bibtexurl: '📚 http://pratyushagnihotri.github.io/files/pdspbench.bib'
+citation: 'Agnihotri, Pratyush and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. (2025). &quot;PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.&quot; <i>Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion), June 22--27, 2025, Berlin, Germany</i>.'
 ---
