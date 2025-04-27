@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, my name is Pratyush Agnihotri"
+title: "Hi, I'm Pratyush Agnihotri 🙏"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Smart City, V oice assistant. Since June 2021, he is working as a Research Scien
 
 
 Research Interests
-=======
+------
 * Research Interests
 * Information-centric Networking
 * Distributed Stream Processing
