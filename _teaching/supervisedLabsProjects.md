@@ -4,7 +4,7 @@ collection: teaching
 #type: "Bachelor and Masters course"
 permalink: /teaching/supervisedLabsProjects
 #venue: "Multimedia Communication Lab, TU Darmstadt"
-#date: 2021-06-01
+date: 2021-06-01
 #location: "Darmstadt, Germany"
 ---
 
