@@ -2,10 +2,10 @@
 title: "Communication Networks"
 collection: teaching
 type: "Bachelor and Masters course"
-#permalink: /teaching/communicationNetworks
-#venue: "Multimedia Communication Lab, TU Darmstadt"
+permalink: /teaching/communicationNetworks
+venue: "Multimedia Communication Lab, TU Darmstadt"
 date: 2021-06-01
-#location: "Darmstadt, Germany"
+location: "Darmstadt, Germany"
 ---
 
 | Semester          | Course                        | Role             |

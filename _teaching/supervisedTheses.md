@@ -1,11 +1,11 @@
 ---
 title: "Supervised Students"
 collection: teaching
-#type: "Bachelor and Masters course"
+type: "Bachelor and Masters course"
 permalink: /teaching/supervisedTheses
-#venue: "Multimedia Communication Lab, TU Darmstadt"
+venue: "Multimedia Communication Lab, TU Darmstadt"
 date: 2021-06-01
-#location: "Darmstadt, Germany"
+location: "Darmstadt, Germany"
 ---
 
 <table style="width:100%; border-collapse: collapse; margin-top:20px;">
