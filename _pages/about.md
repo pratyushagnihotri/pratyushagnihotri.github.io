@@ -17,11 +17,11 @@ I began my academic journey by joining the Master’s program in **Computer Scie
 
 Research Interests
 ------
-* Research Interests
-* Information-centric Networking
 * Distributed Stream Processing
 * Autonomous Resource Management
-* Software-defined Networking
+* Performance Benchmarking and Optimization
+* Heterogenous Cloud Environment
+* Internet of Things (IoT)
 
 
 Current Projects
