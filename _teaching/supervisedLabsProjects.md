@@ -1,11 +1,11 @@
 ---
 title: "Supervised Labs, Seminars, and Projects"
 collection: teaching
-type: "Bachelor and Masters course"
+#type: "Bachelor and Masters course"
 permalink: /teaching/supervisedLabsProjects
-venue: "Multimedia Communication Lab, TU Darmstadt"
-date: 2021-06-01
-location: "Darmstadt, Germany"
+#venue: "Multimedia Communication Lab, TU Darmstadt"
+#date: 2021-06-01
+#location: "Darmstadt, Germany"
 ---
 
 | Student(s)           | Title                                                    | Type         | Year  |
