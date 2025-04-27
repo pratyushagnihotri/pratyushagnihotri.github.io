@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Ing Pratyush Agnihotri"
+title                    : "Research. Develop. Impact. Educate."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "pratyushagnihotri/pratyushagnihotri.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pratyush Agnihotri"
+  name             : "Dr.-Ing. Pratyush Agnihotri"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher @ DFKI"
   location         : "Darmstadt, Germany 🇩🇪"

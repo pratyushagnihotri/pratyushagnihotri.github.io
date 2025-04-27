@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**Researching AI. Developing Distributed Stream Processing. Impacting Systems. Educating the Next Generation.**
+
 Pratyush Agnihotri joined the Master's course in Computer Science at TU Darmstadt in 2013. In his master thesis work, he proposed and developed a decentralized crowd-sensing data collection framework using Information-Centric Networking (ICN) concepts to deal with post-disaster challenges
 in communication. The thesis was done in joint-collaboration with Prof. Dr.-Ing. Michael Zink, University of Massachusetts in Amherst, USA. After his graduation, he worked as a Software Developer at axxessio GmbH, Darmstadt in the application and research areas of Internet of Things (IoT),
 Smart City, V oice assistant. Since June 2021, he is working as a Research Scientist at the Multimedia Communication Lab and primarily associated with C2 subproject of [DFG MAKI](https://www.maki.tu-darmstadt.de/sfb_maki/ueber_maki/index.de.jsp).
@@ -23,26 +25,28 @@ Research Interests
 
 Current Projects
 -----
-[DFG: Collaborative Research Centre 1053 MAKI:](https://www.maki.tu-darmstadt.de/sfb
+[DFG: Collaborative Research Centre 1053 MAKI](https://www.maki.tu-darmstadt.de/sfb
 maki/ueber_maki/index.en.jsp) I am working as Researcher for MAKI Subproject C2 which explores transitions in communication systems from an information-centric view. A central paradigm for
 information processing are event-based systems (EBS), which model the information flow as streams of events and help to recognize certain patterns over the event streams at runtime. The goal of C2 is to explore methods for transition-based adaptation of event-processing systems and thereby
 achieve a significant increase in the quality of service under dynamically varying conditions.
 
-[Parrot: Privacy Engineering for Real-Time Analytics in Human-Centered Internet of Things:] (https://www.maki.tu-darmstadt.de/sfbmaki/ueber_maki/index.en.jsp) I am working as Associated Researcher for Parrot project which is a collaborative research between the University of Oslo (Norway) and the Technical University of Darmstadt (Germany) funded by the Research Council of Norway (2020 – 2023). The aim of this project is to find user-centric methods for real-time privacy protection for stream processing applications.
+[Parrot: Privacy Engineering for Real-Time Analytics in Human-Centered Internet of Things](https://www.maki.tu-darmstadt.de/sfbmaki/ueber_maki/index.en.jsp) I am working as Associated Researcher for Parrot project which is a collaborative research between the University of Oslo (Norway) and the Technical University of Darmstadt (Germany) funded by the Research Council of Norway (2020 – 2023). The aim of this project is to find user-centric methods for real-time privacy protection for stream processing applications.
 
 Open PhD, Theses and HiWi Positions
 -----
-I am looking for motivated students who are interested to work on cutting edge technologies and IoT applications area. If you are interested to write a Bachelor or Master Thesis or gain experience in MAKI project as HiWi then please feel free to contact me. Send your CV and Transcript or
-TUCaN grade list on my email address. 
+I am looking for motivated students who are interested to work on cutting edge technologies and IoT applications area. If you are interested to do PhD or write a Bachelor or Master Thesis or gain experience in my current ongoing projects as HiWi then please feel free to contact me. Send your CV and Transcript list on my email address. 
 
 Current Teaching Activities
 -----
 
-I am actively involved in teaching activities focused on distributed systems, communication networks, and stream processing technologies. I have contributed as a Teaching Assistant for undergraduate and graduate courses, including "Communication Networks 2," and regularly supervise Master's theses, Bachelor's theses, seminars, and lab projects. My teaching emphasizes hands-on experience, research-driven learning, and bridging theory with real-world system design. [Read more ...](https://pratyushagnihotri.github.io/teaching/)
+I am actively involved in teaching activities focused on distributed systems, communication networks, and stream processing technologies. I have contributed as a Teaching Assistant for undergraduate and graduate courses, including "Communication Networks 2," and regularly supervise Master's theses, Bachelor's theses, seminars, and lab projects. My teaching emphasizes hands-on experience, research-driven learning, and bridging theory with real-world system design. [Read more](https://pratyushagnihotri.github.io/teaching/)
 
+Recent Publication
+-----
 
+Agnihotri, Pratyush and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. (2025). &quot;**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion), June 22--27, 2025, Berlin, Germany</i>.
 
-
+[Previous publications](https://pratyushagnihotri.github.io/teaching/)
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
