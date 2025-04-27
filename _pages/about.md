@@ -21,6 +21,29 @@ Research Interests
 * Software-defined Networking
 
 
+Current Projects
+-----
+[DFG: Collaborative Research Centre 1053 MAKI:](https://www.maki.tu-darmstadt.de/sfb
+maki/ueber_maki/index.en.jsp) I am working as Researcher for MAKI Subproject C2 which explores transitions in communication systems from an information-centric view. A central paradigm for
+information processing are event-based systems (EBS), which model the information flow as streams of events and help to recognize certain patterns over the event streams at runtime. The goal of C2 is to explore methods for transition-based adaptation of event-processing systems and thereby
+achieve a significant increase in the quality of service under dynamically varying conditions.
+
+[Parrot: Privacy Engineering for Real-Time Analytics in Human-Centered Internet of Things:] (https://www.maki.tu-darmstadt.de/sfbmaki/ueber_maki/index.en.jsp) I am working as Associated Researcher for Parrot project which is a collaborative research between the University of Oslo (Norway) and the Technical University of Darmstadt (Germany) funded by the Research Council of Norway (2020 – 2023). The aim of this project is to find user-centric methods for real-time privacy protection for stream processing applications.
+
+Open PhD, Theses and HiWi Positions
+-----
+I am looking for motivated students who are interested to work on cutting edge technologies and IoT applications area. If you are interested to write a Bachelor or Master Thesis or gain experience in MAKI project as HiWi then please feel free to contact me. Send your CV and Transcript or
+TUCaN grade list on my email address. 
+
+Current Teaching Activities
+-----
+
+I am actively involved in teaching activities focused on distributed systems, communication networks, and stream processing technologies. I have contributed as a Teaching Assistant for undergraduate and graduate courses, including "Communication Networks 2," and regularly supervise Master's theses, Bachelor's theses, seminars, and lab projects. My teaching emphasizes hands-on experience, research-driven learning, and bridging theory with real-world system design. [Read more ...](https://pratyushagnihotri.github.io/teaching/)
+
+
+
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
