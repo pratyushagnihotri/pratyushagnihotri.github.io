@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor and Masters courses"
 permalink: /teaching/communicationNetworks
 venue: "TU Darmstadt"
-#date: 2021-06-01
+date: 2025-06-01
 location: "Darmstadt, Germany"
 ---
 
