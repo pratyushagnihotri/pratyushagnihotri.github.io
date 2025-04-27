@@ -1,15 +1,14 @@
 ---
-title: "Communication Networks"
+title: "Teaching Assistant"
 collection: teaching
-type: "Bachelor and Masters course"
+type: "Bachelor and Masters courses"
 permalink: /teaching/communicationNetworks
-venue: "Multimedia Communication Lab, TU Darmstadt"
-date: 2021-06-01
+venue: "TU Darmstadt"
+#date: 2021-06-01
 location: "Darmstadt, Germany"
 ---
 
-| Semester          | Course                        | Role             |
+| Years          | Course                        | Role             |
 |-------------------|-------------------------------|------------------|
-| Winter Semester 2021/22 | Communication Networks 2 | Teaching Assistant |
-| Winter Semester 2022/23 | Communication Networks 2 | Teaching Assistant |
-| Winter Semester 2023/24 | Communication Networks 2 | Teaching Assistant |
+| 2021--2024 | Communication Networks | Teaching Assistant |
+| 2014--2017 | Distributed Systems | Student Tutor |
