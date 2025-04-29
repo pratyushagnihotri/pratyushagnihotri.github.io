@@ -5,20 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank" style="padding:5px 10px; background:#edf2f7; border-radius:5px; margin-right:10px; text-decoration:none;">
-    <i class="fa fa-graduation-cap"></i> Google Scholar</a>.</div>
+{% if site.author.googlescholar or site.author.orcid or site.author.dblp %}
+  <div class="wordwrap" style="margin-top: 20px;">
+    You can also find my articles here:
+    <br><br>
+
+    {% if site.author.googlescholar %}
+      <a href="{{ site.author.googlescholar }}" target="_blank" style="padding:5px 10px; background:#edf2f7; border-radius:5px; margin-right:10px; text-decoration:none; display:inline-block; margin-bottom:5px;">
+        <i class="fa fa-graduation-cap"></i> Google Scholar
+      </a>
+    {% endif %}
+
+    {% if site.author.orcid %}
+      <a href="{{ site.author.orcid }}" target="_blank" style="padding:5px 10px; background:#edf2f7; border-radius:5px; margin-right:10px; text-decoration:none; display:inline-block; margin-bottom:5px;">
+        <i class="fa fa-id-badge"></i> ORCID
+      </a>
+    {% endif %}
+
+    {% if site.author.dblp %}
+      <a href="{{ site.author.dblp }}" target="_blank" style="padding:5px 10px; background:#edf2f7; border-radius:5px; margin-right:10px; text-decoration:none; display:inline-block; margin-bottom:5px;">
+        <i class="fa fa-book"></i> DBLP
+      </a>
+    {% endif %}
+
+  </div>
 {% endif %}
-{% if site.author.orcid %}
-    <a href="{{ site.author.orcid }}" target="_blank" style="padding:5px 10px; background:#edf2f7; border-radius:5px; margin-right:10px; text-decoration:none;">
-      <i class="fa fa-id-badge"></i> ORCID
-    </a>
-  {% endif %}
-  {% if site.author.dblp %}
-    <a href="{{ site.author.dblp }}" target="_blank" style="padding:5px 10px; background:#edf2f7; border-radius:5px; margin-right:10px; text-decoration:none;">
-      <i class="fa fa-book"></i> DBLP
-    </a>
-  {% endif %}
+
 
 {% include base_path %}
 
