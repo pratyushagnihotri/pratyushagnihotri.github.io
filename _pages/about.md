@@ -36,18 +36,20 @@ achieve a significant increase in the quality of service under dynamically varyi
 [Previous projects](https://pratyushagnihotri.github.io/projects/)
 
 
-Open PhD, Theses and HiWi Positions
------
-I am looking for motivated students who are interested to work on cutting edge technologies and IoT applications area. If you are interested to do PhD or write a Bachelor or Master Thesis or gain experience in my current ongoing projects as HiWi then please feel free to contact me. Send your CV and Transcript list on my email address. 
-
-Current Teaching Activities
------
-
-I am actively involved in teaching activities focused on distributed systems, communication networks, and stream processing technologies. I have contributed as a Teaching Assistant for undergraduate and graduate courses, including "Communication Networks 2," and regularly supervise Master's theses, Bachelor's theses, seminars, and lab projects. My teaching emphasizes hands-on experience, research-driven learning, and bridging theory with real-world system design. [Read more](https://pratyushagnihotri.github.io/teaching/)
-
 Recent Publication
 -----
 
 Agnihotri, Pratyush and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. (2025). &quot;**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion), June 22--27, 2025, Berlin, Germany</i>.
 
 [Previous publications](https://pratyushagnihotri.github.io/publications/)
+
+
+Current Teaching Activities
+-----
+
+I am actively involved in teaching activities focused on distributed systems, communication networks, and stream processing technologies. I have contributed as a Teaching Assistant for undergraduate and graduate courses, including "Communication Networks 2," and regularly supervise Master's theses, Bachelor's theses, seminars, and lab projects. My teaching emphasizes hands-on experience, research-driven learning, and bridging theory with real-world system design. [Read more](https://pratyushagnihotri.github.io/teaching/)
+
+
+Open PhD, Theses and HiWi Positions
+-----
+I am looking for motivated students who are interested to work on cutting edge technologies and IoT applications area. If you are interested to do PhD or write a Bachelor or Master Thesis or gain experience in my current ongoing projects as HiWi then please feel free to contact me. Send your CV and Transcript list on my email address. 

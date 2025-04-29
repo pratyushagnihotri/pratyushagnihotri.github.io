@@ -7,8 +7,8 @@ permalink: /publication/2021-autonomous-resource-management
 date: 2021-11-01
 #venue: 'Proceedings of the 22nd International Middleware Conference: Doctoral Symposium'
 #slidesurl: 'http://pratyushagnihotri.github.io/files/slides1.pdf'
-paperurl: '📄 http://pratyushagnihotri.github.io/files/autonomous.pdf'
-bibtexurl: '📚 http://pratyushagnihotri.github.io/files/autonomous.bib'
+paperurl: 'http://pratyushagnihotri.github.io/files/autonomous.pdf'
+bibtexurl: 'http://pratyushagnihotri.github.io/files/autonomous.bib'
 citation: '<b>Agnihotri, Pratyush</b>. (2021). &quot;Autonomous resource management in distributed stream processing systems.&quot; <i>Proceedings of the 22nd International Middleware Conference: Doctoral Symposium</i>.'
 
 ---
