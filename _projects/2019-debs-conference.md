@@ -1,7 +1,7 @@
 ---
 title: "DEBS 2019 Conference Website"
 collection: projects
-permalink: /projects/debs-2019-conference
+permalink: /projects/2019-debs-conference
 role: "Frontend Developer (Web Chair)"
 client: "DEBS.org"
 sector: "Organization"

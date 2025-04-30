@@ -10,6 +10,7 @@ date_end: 2018-10-31
 location: "Darmstadt, Germany"
 layout: single
 excerpt: "Created a citizen-centered digital experience lab to support community-driven engagement with Darmstadt's smart city initiatives."
+tags: ['Smart City & IoT']
 ---
 
 **Role**: Technology Consultant  

@@ -10,6 +10,7 @@ date_end: 2018-09-30
 location: "Bonn, Germany"
 layout: single
 excerpt: "Developed a real-time sensor data platform for the City of Bonn to deliver smart city services using event-driven architecture and interactive visualizations."
+tags: ['Smart City & IoT', 'Web development']
 ---
 
 **Role**: Technology Consultant & Frontend Developer  

@@ -10,6 +10,7 @@ date_end: 2018-03-31
 location: "Darmstadt, Germany"
 layout: single
 excerpt: "Developed NB-IoT-based prototypes and integrated CoAP-enabled devices into Deutsche Telekom's Cloud of Things for smart city applications."
+tags: ['Smart City & IoT']
 ---
 
 **Role**: Prototype Developer and Analyst  

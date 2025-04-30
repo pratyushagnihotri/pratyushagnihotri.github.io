@@ -10,6 +10,7 @@ date: 2018-10-01
 date_end: 2019-03-31
 location: "Darmstadt, Germany"
 layout: single
+tags: ['Smart City & IoT', 'mobile development']
 ---
 
 **Role**: Technology Consultant  
