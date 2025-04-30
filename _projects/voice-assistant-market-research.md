@@ -2,6 +2,7 @@
 title: "Market Analysis for axxessio Voice Strategy"
 excerpt: "The aim of the market research for voice was to answer three relevant questions which can drive the success of axxessio in the voice sector"
 collection: projects
+permalink: /projects/voice-assistant-market-research
 role: "Technology Consultant"
 client: "axxessio GmbH (Internal Study)"
 sector: "Voice Assistant"
