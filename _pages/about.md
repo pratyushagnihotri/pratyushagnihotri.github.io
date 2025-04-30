@@ -126,6 +126,58 @@ I began my academic journey by joining the Master’s program in **Computer Scie
   </div>
 </section>
 
+<style>
+.timeline {
+  list-style: none;
+  padding: 0;
+  position: relative;
+}
+.timeline:before {
+  content: '';
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 18px;
+  width: 4px;
+  height: 100%;
+  z-index: 400;
+}
+.timeline > li {
+  margin: 20px 0;
+  padding-left: 40px;
+  position: relative;
+}
+.timeline > li .timeline-badge {
+  color: white;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 1.2em;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  background-color: #6c757d;
+  border-radius: 50%;
+  z-index: 500;
+}
+.timeline > li.timeline-inverted .timeline-badge {
+  background-color: #007bff;
+}
+.timeline-panel {
+  background: #f8f9fa;
+  border-radius: 6px;
+  padding: 15px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.timeline-footer {
+  text-align: right;
+  font-size: 0.8rem;
+  color: #6c757d;
+}
+</style>
+
+
 Research Interests
 ------
 * Distributed Stream Processing
