@@ -5,7 +5,7 @@ permalink: /projects/parrot
 role: "Associated Researcher"
 client: "University of Oslo / TU Darmstadt"
 sector: "Academic Research"
-date: 2020-01-01
+date: 2021-06-01
 date_end: 2023-12-31
 location: "Germany / Norway"
 layout: single
