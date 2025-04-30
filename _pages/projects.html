@@ -31,30 +31,31 @@ author_profile: true
 }
 </style>
 
+<!-- 🔍 Search + Tag Filter UI -->
 <div class="tag-buttons">
   <button onclick="filterProjects('all')">All</button>
-  <button onclick="filterProjects('voice')">Voice</button>
-  <button onclick="filterProjects('smart-city-&-iot')">Smart City & IoT</button>
-  <button onclick="filterProjects('web-development')">Web development</button>
-  <button onclick="filterProjects('mobile-development')">mobile development</button>
-  <button onclick="filterProjects('dfg')">DFG</button>
-  <button onclick="filterProjects('dfki')">DFKI</button>
+  {% assign all_tags = site.projects | map: 'tags' | join: ',' | split: ',' | uniq %}
+  {% for tag in all_tags %}
+    <button onclick="filterProjects('{{ tag | downcase | replace: ' ', '-' }}')">{{ tag }}</button>
+  {% endfor %}
 </div>
 
+<input type="text" id="searchInput" placeholder="Search projects by title..." style="width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px;" onkeyup="searchProjects()" />
+
+<!-- 🔁 Project entries -->
 <div id="projects-list">
-
-{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
-{% for project in sorted_projects %}
-  <div>
-    <strong>{{ project.title }}</strong><br/>
-    Tags: {{ project.tags }}<br/>
-    Date: {{ project.date }}<br/>
-  </div>
-{% endfor %}
+  {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+  {% for project in sorted_projects %}
+    <div class="project-entry {% for tag in project.tags %}{{ tag | downcase | replace: ' ', '-' }} {% endfor %}" data-tags="{% for tag in project.tags %}{{ tag | downcase | replace: ' ', '-' }} {% endfor %}" data-title="{{ project.title | downcase }}">
+      {% include archive-single-project.html post=project %}
+    </div>
+  {% endfor %}
 </div>
 
+<!-- 🧠 Filtering & Search Script -->
 <script>
 function filterProjects(tag) {
+  document.getElementById('searchInput').value = ''; // reset search
   var entries = document.querySelectorAll('.project-entry');
   entries.forEach(function(entry) {
     if (tag === 'all' || entry.classList.contains(tag)) {
@@ -64,4 +65,25 @@ function filterProjects(tag) {
     }
   });
 }
+
+function searchProjects() {
+  var input = document.getElementById('searchInput').value.toLowerCase();
+  var entries = document.querySelectorAll('.project-entry');
+  entries.forEach(function(entry) {
+    if (entry.dataset.title.includes(input)) {
+      entry.style.display = 'block';
+    } else {
+      entry.style.display = 'none';
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.project-tag').forEach(btn => {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      filterProjects(this.dataset.filter);
+    });
+  });
+});
 </script>
