@@ -2,7 +2,7 @@
 title: "OSCA – One Smart City App"
 excerpt: "The aim of the OSCA project is to create an app that gives citizens convenient access to services provided by cities and third-party providers."
 collection: projects
-permalink: /projects/osca-smart-city-app
+permalink: /projects/2019-osca-smart-city-app
 role: "Technology Consultant"
 client: "Deutsche Telekom"
 sector: "Government (Entertainment)"

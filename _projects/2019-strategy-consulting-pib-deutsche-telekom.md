@@ -1,7 +1,7 @@
 ---
 title: "Strategy Consulting for PIB Presentation"
 collection: projects
-permalink: /projects/strategy-consulting-pib-deutsche-telekom
+permalink: /projects/2019-strategy-consulting-pib-deutsche-telekom
 excerpt: "The project aimed to deliver **strategy consulting** in preparation for the upcoming **PIB (Project Investment Board)** meeting and final presentation."
 role: "Technology Consultant"
 client: "Deutsche Telekom"
