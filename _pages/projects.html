@@ -7,7 +7,61 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.tag-buttons {
+  margin-bottom: 20px;
+}
+.tag-buttons button {
+  margin: 5px;
+  padding: 6px 12px;
+  background-color: #f0f0f0;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+.tag-buttons button:hover {
+  background-color: #007acc;
+  color: white;
+}
+.project-entry {
+  display: block;
+  margin-bottom: 1.5rem;
+}
+</style>
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
+<div class="tag-buttons">
+  <button onclick="filterProjects('all')">All</button>
+  <button onclick="filterProjects('voice')">Voice</button>
+  <button onclick="filterProjects('smart-city-&-iot')">Smart City & IoT</button>
+  <button onclick="filterProjects('web-development')">Web development</button>
+  <button onclick="filterProjects('mobile-development')">mobile development</button>
+  <button onclick="filterProjects('dfg')">DFG</button>
+  <button onclick="filterProjects('dfki')">DFKI</button>
+</div>
+
+<div id="projects-list">
+
+{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+{% for project in sorted_projects %}
+  <div class="project-entry" data-tags="{{ project.tags | join: ' ' | downcase | replace: ' ', '-' }}">
+    {% include archive-single.html %}
+  </div>
 {% endfor %}
+</div>
+
+<script>
+function filterProjects(tag) {
+  var entries = document.querySelectorAll('.project-entry');
+  entries.forEach(function(entry) {
+    var tags = entry.getAttribute('data-tags');
+    if (tag === 'all' || tags.includes(tag)) {
+      entry.style.display = 'block';
+    } else {
+      entry.style.display = 'none';
+    }
+  });
+}
+</script>
+
