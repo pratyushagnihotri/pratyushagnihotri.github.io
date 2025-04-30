@@ -45,8 +45,10 @@ author_profile: true
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 {% for project in sorted_projects %}
-  <div class="project-entry {% for tag in project.tags %}{{ tag | downcase | replace: ' ', '-' }} {% endfor %}">
-    {% include archive-single.html %}
+  <div>
+    <strong>{{ project.title }}</strong><br/>
+    Tags: {{ project.tags }}<br/>
+    Date: {{ project.date }}<br/>
   </div>
 {% endfor %}
 </div>
