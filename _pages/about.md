@@ -15,6 +15,117 @@ From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia
 
 I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with **Prof. Dr.-Ing. Michael Zink** from the **University of Massachusetts Amherst (USA)**.
 
+<section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
+  <div class="section-row">
+
+    <h3 class="section-title">Experience</h3>
+    <hr>
+    <ul class="timeline">
+
+      <li class="mb-3">
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Technology Consultant</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.axxessio.com/" target="_blank">axxessio GmbH, Darmstadt, Germany</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">April 2017 – present</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="timeline-inverted">
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Graduate Student Assistant for course Distributed System</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.informatik.tu-darmstadt.de/telekooperation/" target="_blank">Telecooperation Group – TU Darmstadt</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">October 2014 – February 2017</p>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Quality Engineer & Automation Developer</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.kobil.com/" target="_blank">Kobil System GmbH, Darmstadt, Germany</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">June 2014 – December 2016</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="timeline-inverted">
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Junior Research Assistant</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.kom.tu-darmstadt.de/" target="_blank">Distributed Multimedia Systems Group – TU Darmstadt</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">June 2014 – August 2014</p>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Software Engineer</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.hcltech.com/" target="_blank">HCL Technologies Pvt. Ltd., Noida, India</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">August 2010 – September 2013</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="clearfix no-float"></li>
+    </ul>
+
+    <h3 class="section-title">Education</h3>
+    <hr>
+    <ul class="timeline">
+
+      <li class="mb-3">
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Master in Computer Science</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.tu-darmstadt.de/" target="_blank">Technical University of Darmstadt, Germany</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">October 2013 – November 2016</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="timeline-inverted">
+        <div class="timeline-badge"></div>
+        <div class="timeline-panel">
+          <h5 class="ml-3 mt-3">Bachelor in Computer Science & Engineering (B.Tech)</h5>
+          <div class="timeline-body ml-3 mt-3">
+            <a class="small" href="https://www.amity.edu/" target="_blank">Amity University, Noida, India</a>
+          </div>
+          <div class="timeline-footer">
+            <p class="text-right small">July 2006 – June 2010</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="clearfix no-float"></li>
+    </ul>
+
+  </div>
+</section>
+
 Research Interests
 ------
 * Distributed Stream Processing

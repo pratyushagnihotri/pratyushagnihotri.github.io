@@ -16,6 +16,7 @@
       <p><strong>Date:</strong> {{ include.post.date | date: "%B %Y" }}</p>
     {% endif %}
 
+    {% comment %}
     {% if include.post.tags %}
       <p><strong>Tags:</strong>
         {% for tag in include.post.tags %}
@@ -23,6 +24,7 @@
         {% endfor %}
       </p>
     {% endif %}
+    {% endcomment %}
 
     {% if include.post.excerpt %}
       <p>{{ include.post.excerpt }}</p>
