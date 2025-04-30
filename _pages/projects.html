@@ -31,31 +31,29 @@ author_profile: true
 }
 </style>
 
-<!-- 🔍 Search + Tag Filter UI -->
+<!-- 🔘 Tag Filter Buttons -->
 <div class="tag-buttons">
   <button onclick="filterProjects('all')">All</button>
   {% assign all_tags = site.projects | map: 'tags' | join: ',' | split: ',' | uniq %}
   {% for tag in all_tags %}
-    <button onclick="filterProjects('{{ tag | downcase | replace: ' ', '-' }}')">{{ tag }}</button>
+    {% assign tag_slug = tag | downcase | replace: ' ', '-' %}
+    <button onclick="filterProjects('{{ tag_slug }}')">{{ tag }}</button>
   {% endfor %}
 </div>
 
-<input type="text" id="searchInput" placeholder="Search projects by title..." style="width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px;" onkeyup="searchProjects()" />
-
-<!-- 🔁 Project entries -->
+<!-- 📋 Project List -->
 <div id="projects-list">
   {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
   {% for project in sorted_projects %}
-    <div class="project-entry {% for tag in project.tags %}{{ tag | downcase | replace: ' ', '-' }} {% endfor %}" data-tags="{% for tag in project.tags %}{{ tag | downcase | replace: ' ', '-' }} {% endfor %}" data-title="{{ project.title | downcase }}">
+    <div class="project-entry {% for tag in project.tags %}{{ tag | downcase | replace: ' ', '-' }} {% endfor %}">
       {% include archive-single-project.html post=project %}
     </div>
   {% endfor %}
 </div>
 
-<!-- 🧠 Filtering & Search Script -->
+<!-- 🧠 Filter Script -->
 <script>
 function filterProjects(tag) {
-  document.getElementById('searchInput').value = ''; // reset search
   var entries = document.querySelectorAll('.project-entry');
   entries.forEach(function(entry) {
     if (tag === 'all' || entry.classList.contains(tag)) {
@@ -65,25 +63,4 @@ function filterProjects(tag) {
     }
   });
 }
-
-function searchProjects() {
-  var input = document.getElementById('searchInput').value.toLowerCase();
-  var entries = document.querySelectorAll('.project-entry');
-  entries.forEach(function(entry) {
-    if (entry.dataset.title.includes(input)) {
-      entry.style.display = 'block';
-    } else {
-      entry.style.display = 'none';
-    }
-  });
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.project-tag').forEach(btn => {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-      filterProjects(this.dataset.filter);
-    });
-  });
-});
 </script>
