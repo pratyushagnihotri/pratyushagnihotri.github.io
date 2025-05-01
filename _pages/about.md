@@ -15,22 +15,24 @@ From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia
 
 I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with **Prof. Dr.-Ing. Michael Zink** from the **University of Massachusetts Amherst (USA)**.
 
+Experience
+------
+
 <section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
   <div class="section-row">
-
     <h3 class="section-title">Experience</h3>
     <hr>
     <ul>
       <li>
-        <p><em>01/2024 – Present:</em> <strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI</a>, Germany 🇩🇪 <img src="/images/logos/dfki.png" alt="DFKI Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>TBD:</em> <strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI</a>, Germany 🇩🇪 </p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
       <li>
-        <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 <img src="/images/logos/kom.svg" alt="KOM Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 </p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
       <li>
-        <p><em>03/2017 – 07/2023:</em> <strong>Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 <img src="/images/logos/axxessio.png" alt="axxessio Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>03/2017 – 07/2023:</em> <strong>Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
         <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
       </li>
       <li>
@@ -38,20 +40,25 @@ I began my academic journey by joining the Master’s program in **Computer Scie
         <p>Assisted in teaching and research for distributed systems and IoT applications.</p>
       </li>
       <li>
-        <p><em>06/2014 – 12/2016:</em> <strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany <img src="/images/logos/kobil.png" alt="Kobil Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>06/2014 – 12/2016:</em> <strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany</p>
         <p>Led QA and automation for secure web servers and enterprise mobile applications in finance/retail sectors.</p>
       </li>
       <li>
-        <p><em>08/2010 – 09/2013:</em> <strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India 🇮🇳 <img src="/images/logos/hcl.svg" alt="HCL Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>08/2010 – 09/2013:</em> <strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India 🇮🇳</p>
         <p>Developed embedded and mobile applications for consumer electronics and telecom clients including Sony and NTTDocomo.</p>
       </li>
     </ul>
+    </div>
+</section>
 
-    <h3 class="section-title">Education</h3>
-    <hr>
+Education
+------
+
+<section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
+  <div class="section-row">
     <ul>
       <li>
-        <p><em>06/2021 – 09/2024:</em> <strong>Ph.D. in ETiT</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪 <img src="/images/logos/tud.svg" alt="TU Darmstadt Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>06/2021 – 09/2024:</em> <strong>Ph.D. in ETiT</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪 </p>
         <p>Focused on performance modeling and optimization of distributed stream processing systems.</p>
       </li>
       <li>
@@ -59,14 +66,12 @@ I began my academic journey by joining the Master’s program in **Computer Scie
         <p>Master thesis on decentralized crowd-sensing data collection using ICN, in collaboration with UMass Amherst.</p>
       </li>
       <li>
-        <p><em>07/2006 – 06/2010:</em> <strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳 <img src="/images/logos/amity.jpg" alt="Amity Logo" width="50" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>07/2006 – 06/2010:</em> <strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳 </p>
         <p>Graduated with distinction and completed foundational training in distributed systems and software engineering.</p>
       </li>
     </ul>
-
   </div>
 </section>
-
 
 
 Research Interests
