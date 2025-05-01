@@ -22,28 +22,27 @@ I began my academic journey by joining the Master’s program in **Computer Scie
     <hr>
     <ul>
       <li>
-        <p><strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI</a> and <a href="https://www.epfl.ch/labs/dias/">EPFL DIAS Lab</a>, Germany 🇩🇪 & Switzerland 🇨🇭</p>
-        <p><strong>01/2024 – Present</strong></p>
+        <p>strong>01/2024 – Present: </strong><strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI, </a>Germany 🇩🇪</p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
       <li>
-        <p><strong>Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪</p>
-        <p><strong>04/2017 – Present</strong></p>
+        <p>strong>06/2021 – 12/2024: </strong><strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab, </a>TU Darmstadt, Germany 🇩🇪</p>
+        <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
+      </li>
+      <li>
+        <p>strong>03/2017 – 07/2023: </strong><strong>Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪</p>
         <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
       </li>
       <li>
-        <p><strong>Graduate Student Assistant</strong> at <a href="https://www.informatik.tu-darmstadt.de/telekooperation/">Telecooperation Group – TU Darmstadt</a></p>
-        <p><strong>10/2014 – 02/2017</strong></p>
+        <p><strong>10/2014 – 02/2017: </strong><strong>Graduate Student Assistant</strong> at <a href="https://www.informatik.tu-darmstadt.de/telekooperation/">Telecooperation Group – TU Darmstadt</a></p>
         <p>Assisted in teaching and research for distributed systems and IoT applications.</p>
       </li>
       <li>
-        <p><strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany</p>
-        <p><strong>06/2014 – 12/2016</strong></p>
+        <p><strong>06/2014 – 12/2016: </strong> <strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany</p>
         <p>Led QA and automation for secure web servers and enterprise mobile applications in finance/retail sectors.</p>
       </li>
       <li>
-        <p><strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India</p>
-        <p><strong>08/2010 – 09/2013</strong></p>
+        <p><strong>08/2010 – 09/2013: </strong><strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India</p>
         <p>Developed embedded and mobile applications for consumer electronics and telecom clients including Sony and NTTDocomo.</p>
       </li>
     </ul>
@@ -52,23 +51,15 @@ I began my academic journey by joining the Master’s program in **Computer Scie
     <hr>
     <ul>
       <li>
-        <p><strong>Ph.D. in Computer Science</strong>, <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
-        <p><strong>2019 – 2024</strong></p>
+        <p><strong>06/2021 – 09/2024: </strong><strong>Ph.D. in ETiT</strong>, <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
         <p>Focused on performance modeling and optimization of distributed stream processing systems.</p>
       </li>
       <li>
-        <p><strong>Visiting PhD Student</strong> at <a href="http://daslab.seas.harvard.edu/">DasLab</a> (<a href="https://seas.harvard.edu/">Harvard SEAS</a>), Boston, USA 🇺🇸</p>
-        <p><strong>04/2023 – 06/2023</strong></p>
-        <p>Designed and tested data-aware approximate range filters for LSM-tree based systems like RocksDB.</p>
-      </li>
-      <li>
-        <p><strong>Master’s in Computer Science</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
-        <p><strong>10/2013 – 11/2016</strong></p>
+        <p><strong>10/2013 – 11/2016: </strong><strong>Master’s in Computer Science</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
         <p>Master thesis on decentralized crowd-sensing data collection using ICN, in collaboration with UMass Amherst.</p>
       </li>
       <li>
-        <p><strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳</p>
-        <p><strong>07/2006 – 06/2010</strong></p>
+        <p><strong>07/2006 – 06/2010: </strong><strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳</p>
         <p>Graduated with distinction and completed foundational training in distributed systems and software engineering.</p>
       </li>
     </ul>
