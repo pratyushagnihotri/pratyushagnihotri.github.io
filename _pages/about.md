@@ -26,7 +26,7 @@ I began my academic journey by joining the Master’s program in **Computer Scie
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
       <li>
-        <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 <img src="/images/logos/kom.png" alt="KOM Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 <img src="/images/logos/kom.svg" alt="KOM Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
       <li>
@@ -42,7 +42,7 @@ I began my academic journey by joining the Master’s program in **Computer Scie
         <p>Led QA and automation for secure web servers and enterprise mobile applications in finance/retail sectors.</p>
       </li>
       <li>
-        <p><em>08/2010 – 09/2013:</em> <strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India 🇮🇳 <img src="/images/logos/hcl.png" alt="HCL Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>08/2010 – 09/2013:</em> <strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India 🇮🇳 <img src="/images/logos/hcl.svg" alt="HCL Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
         <p>Developed embedded and mobile applications for consumer electronics and telecom clients including Sony and NTTDocomo.</p>
       </li>
     </ul>
@@ -51,7 +51,7 @@ I began my academic journey by joining the Master’s program in **Computer Scie
     <hr>
     <ul>
       <li>
-        <p><em>06/2021 – 09/2024:</em> <strong>Ph.D. in ETiT</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪 <img src="/images/logos/tud.png" alt="TU Darmstadt Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>06/2021 – 09/2024:</em> <strong>Ph.D. in ETiT</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪 <img src="/images/logos/tud.svg" alt="TU Darmstadt Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
         <p>Focused on performance modeling and optimization of distributed stream processing systems.</p>
       </li>
       <li>
@@ -59,7 +59,7 @@ I began my academic journey by joining the Master’s program in **Computer Scie
         <p>Master thesis on decentralized crowd-sensing data collection using ICN, in collaboration with UMass Amherst.</p>
       </li>
       <li>
-        <p><em>07/2006 – 06/2010:</em> <strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳 <img src="/images/logos/amity.png" alt="Amity Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
+        <p><em>07/2006 – 06/2010:</em> <strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳 <img src="/images/logos/amity.jpg" alt="Amity Logo" width="20" style="margin-left:8px; vertical-align:middle;"></p>
         <p>Graduated with distinction and completed foundational training in distributed systems and software engineering.</p>
       </li>
     </ul>
