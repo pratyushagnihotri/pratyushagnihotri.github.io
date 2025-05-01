@@ -15,168 +15,66 @@ From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia
 
 I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with **Prof. Dr.-Ing. Michael Zink** from the **University of Massachusetts Amherst (USA)**.
 
-Experience
-------
-
 <section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
   <div class="section-row">
 
-    <ul class="timeline">
-
-      <li class="mb-3">
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <p class="ml-3 mt-3">Technology Consultant</p>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.axxessio.com/" target="_blank">axxessio GmbH, Darmstadt, Germany</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right medium">April 2017 – present</p>
-          </div>
-        </div>
-      </li>
-
-      <li class="timeline-inverted">
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <h5 class="ml-3 mt-3">Graduate Student Assistant for course Distributed System</h5>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.informatik.tu-darmstadt.de/telekooperation/" target="_blank">Telecooperation Group – TU Darmstadt</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right small">October 2014 – February 2017</p>
-          </div>
-        </div>
-      </li>
-
+    <h3 class="section-title">Experience</h3>
+    <hr>
+    <ul>
       <li>
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <h5 class="ml-3 mt-3">Quality Engineer & Automation Developer</h5>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.kobil.com/" target="_blank">Kobil System GmbH, Darmstadt, Germany</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right small">June 2014 – December 2016</p>
-          </div>
-        </div>
+        <p><strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI</a> and <a href="https://www.epfl.ch/labs/dias/">EPFL DIAS Lab</a>, Germany 🇩🇪 & Switzerland 🇨🇭</p>
+        <p><strong>01/2024 – Present</strong></p>
+        <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
-
-      <li class="timeline-inverted">
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <h5 class="ml-3 mt-3">Junior Research Assistant</h5>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.kom.tu-darmstadt.de/" target="_blank">Distributed Multimedia Systems Group – TU Darmstadt</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right small">June 2014 – August 2014</p>
-          </div>
-        </div>
-      </li>
-
       <li>
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <h5 class="ml-3 mt-3">Software Engineer</h5>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.hcltech.com/" target="_blank">HCL Technologies Pvt. Ltd., Noida, India</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right small">August 2010 – September 2013</p>
-          </div>
-        </div>
+        <p><strong>Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪</p>
+        <p><strong>04/2017 – Present</strong></p>
+        <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
       </li>
-
-      <li class="clearfix no-float"></li>
+      <li>
+        <p><strong>Graduate Student Assistant</strong> at <a href="https://www.informatik.tu-darmstadt.de/telekooperation/">Telecooperation Group – TU Darmstadt</a></p>
+        <p><strong>10/2014 – 02/2017</strong></p>
+        <p>Assisted in teaching and research for distributed systems and IoT applications.</p>
+      </li>
+      <li>
+        <p><strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany</p>
+        <p><strong>06/2014 – 12/2016</strong></p>
+        <p>Led QA and automation for secure web servers and enterprise mobile applications in finance/retail sectors.</p>
+      </li>
+      <li>
+        <p><strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India</p>
+        <p><strong>08/2010 – 09/2013</strong></p>
+        <p>Developed embedded and mobile applications for consumer electronics and telecom clients including Sony and NTTDocomo.</p>
+      </li>
     </ul>
 
     <h3 class="section-title">Education</h3>
     <hr>
-    <ul class="timeline">
-
-      <li class="mb-3">
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <h5 class="ml-3 mt-3">Master in Computer Science</h5>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.tu-darmstadt.de/" target="_blank">Technical University of Darmstadt, Germany</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right small">October 2013 – November 2016</p>
-          </div>
-        </div>
+    <ul>
+      <li>
+        <p><strong>Ph.D. in Computer Science</strong>, <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
+        <p><strong>2019 – 2024</strong></p>
+        <p>Focused on performance modeling and optimization of distributed stream processing systems.</p>
       </li>
-
-      <li class="timeline-inverted">
-        <div class="timeline-badge"></div>
-        <div class="timeline-panel">
-          <h5 class="ml-3 mt-3">Bachelor in Computer Science & Engineering (B.Tech)</h5>
-          <div class="timeline-body ml-3 mt-3">
-            <a class="small" href="https://www.amity.edu/" target="_blank">Amity University, Noida, India</a>
-          </div>
-          <div class="timeline-footer">
-            <p class="text-right small">July 2006 – June 2010</p>
-          </div>
-        </div>
+      <li>
+        <p><strong>Visiting PhD Student</strong> at <a href="http://daslab.seas.harvard.edu/">DasLab</a> (<a href="https://seas.harvard.edu/">Harvard SEAS</a>), Boston, USA 🇺🇸</p>
+        <p><strong>04/2023 – 06/2023</strong></p>
+        <p>Designed and tested data-aware approximate range filters for LSM-tree based systems like RocksDB.</p>
       </li>
-
-      <li class="clearfix no-float"></li>
+      <li>
+        <p><strong>Master’s in Computer Science</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
+        <p><strong>10/2013 – 11/2016</strong></p>
+        <p>Master thesis on decentralized crowd-sensing data collection using ICN, in collaboration with UMass Amherst.</p>
+      </li>
+      <li>
+        <p><strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳</p>
+        <p><strong>07/2006 – 06/2010</strong></p>
+        <p>Graduated with distinction and completed foundational training in distributed systems and software engineering.</p>
+      </li>
     </ul>
 
   </div>
 </section>
-
-<style>
-.timeline {
-  list-style: none;
-  padding: 0;
-  position: relative;
-}
-.timeline:before {
-  content: '';
-  background: #d4d9df;
-  display: inline-block;
-  position: absolute;
-  left: 18px;
-  width: 4px;
-  height: 100%;
-  z-index: 400;
-}
-.timeline > li {
-  margin: 20px 0;
-  padding-left: 40px;
-  position: relative;
-}
-.timeline > li .timeline-badge {
-  color: white;
-  width: 20px;
-  height: 20px;
-  line-height: 20px;
-  font-size: 1.2em;
-  text-align: center;
-  position: absolute;
-  top: 0;
-  left: 10px;
-  background-color: #6c757d;
-  border-radius: 50%;
-  z-index: 500;
-}
-.timeline > li.timeline-inverted .timeline-badge {
-  background-color: #007bff;
-}
-.timeline-panel {
-  background: #f8f9fa;
-  border-radius: 6px;
-  padding: 15px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-}
-.timeline-footer {
-  text-align: right;
-  font-size: 0.8rem;
-  color: #6c757d;
-}
-</style>
 
 
 Research Interests
