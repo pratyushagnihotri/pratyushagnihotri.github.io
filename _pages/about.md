@@ -15,6 +15,15 @@ From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia
 
 I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with **Prof. Dr.-Ing. Michael Zink** from the **University of Massachusetts Amherst (USA)**.
 
+Research Interests
+------
+* Distributed Stream Processing
+* Autonomous Resource Management
+* Performance Benchmarking and Optimization
+* Heterogenous Cloud Environment
+* Internet of Things (IoT)
+
+
 Experience
 ------
 
@@ -80,13 +89,7 @@ Education
 </section>
 
 
-Research Interests
-------
-* Distributed Stream Processing
-* Autonomous Resource Management
-* Performance Benchmarking and Optimization
-* Heterogenous Cloud Environment
-* Internet of Things (IoT)
+
 
 
 Current Projects
