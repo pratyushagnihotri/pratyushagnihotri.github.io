@@ -20,7 +20,7 @@ Experience
 
 <section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
   <div class="section-row">
-    <h3 class="section-title">Experience</h3>
+    <!--<h3 class="section-title">Experience</h3>-->
     <hr>
     <ul>
       <li>
