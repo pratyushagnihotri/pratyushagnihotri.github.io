@@ -32,7 +32,13 @@ Experience
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
       </li>
       <li>
-        <p><em>03/2017 – 07/2023:</em> <strong>Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
+        <p><em>01/2023 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-informatik-und-automatisierung/profil/institute-und-fachgebiete/institut-fuer-praktische-informatik/fachgebiet-verteilte-systeme-und-betriebssysteme">Distributed and Operating Systems Group</a>, TU Ilmenau, Germany 🇩🇪 </p>
+      </li>
+      <li>
+        <p><em>06/2021 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.cs.rug.nl/ds/">Distributed Systems Group</a>, Faculty of Science and Engineering - University of Groningen, Netherlands 🇳🇱 </p>
+      </li>
+      <li>
+        <p><em>03/2017 – 07/2023:</em> <strong>Assoicate Team Lead and Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
         <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
       </li>
       <li>
@@ -101,6 +107,55 @@ Recent Publication
 Agnihotri, Pratyush and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. (2025). &quot;**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion), June 22--27, 2025, Berlin, Germany</i>.
 
 [Previous publications](https://pratyushagnihotri.github.io/publications/)
+
+Academic Services
+------
+
+<ul>
+  <li><strong>2025</strong>
+    <ul>
+      <li><strong>PC Member:</strong> DE4DS @ BTW, aiDM @ SIGMOD</li>
+    </ul>
+  </li>
+  <li><strong>2024</strong>
+    <ul>
+      <li><strong>External Reviewer:</strong> VLDB (Demo Track), DEBS, Middleware</li>
+    </ul>
+  </li>
+  <li><strong>2023</strong>
+    <ul>
+      <li><strong>External Reviewer:</strong> IFIP Networking Conference</li>
+    </ul>
+  </li>
+  <li><strong>2022</strong>
+    <ul>
+      <li><strong>Reviewer:</strong> PeerJ Journal</li>
+      <li><strong>External Reviewer:</strong> IEEE Fog & Edge, Middleware (22nd & 23rd), EdgeSys 2022</li>
+      <li><strong>Web Co-Chair:</strong> 23rd ACM/IFIP Middleware</li>
+    </ul>
+  </li>
+  <li><strong>2021</strong>
+    <ul>
+      <li><strong>Web Co-Chair:</strong> 22nd ACM/IFIP Middleware</li>
+    </ul>
+  </li>
+  <li><strong>2020</strong>
+    <ul>
+      <li><strong>Registration Co-Chair:</strong> 14th ACM DEBS</li>
+    </ul>
+  </li>
+  <li><strong>2019</strong>
+    <ul>
+      <li><strong>Web Co-Chair:</strong> 13th ACM DEBS</li>
+    </ul>
+  </li>
+  <li><strong>2010</strong>
+    <ul>
+      <li><strong>Web Co-Chair:</strong> IEEE Confluence, IEEE MECON</li>
+    </ul>
+  </li>
+</ul>
+
 
 
 Current Teaching Activities
