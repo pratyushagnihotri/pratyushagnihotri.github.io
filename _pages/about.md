@@ -11,7 +11,7 @@ redirect_from:
 
 I recently completed my Ph.D. in ETiT department at TU Darmstadt, where my research focused on **Distributed Stream Processing**, **AI-driven Optimization Models**, and **Efficient System Design for Heterogeneous Environments**.
 
-From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia Communication Lab (KOM)** at TU Darmstadt, contributing primarily to the **C2 subproject** of the **DFG Collaborative Research Center [MAKI](https://www.maki.tu-darmstadt.de/sfb_maki/ueber_maki/index.de.jsp)**. Prior to his Ph.D., I worked as a **Software Developer** at **axxessio GmbH** in Darmstadt, engaging in applied research and development in the fields of Internet of Things (IoT), Smart City Solutions, and Voice Assistants.
+From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia Communication Lab (KOM)** at TU Darmstadt, contributing primarily to the **C2 subproject** of the **DFG Collaborative Research Center [MAKI](https://www.maki.tu-darmstadt.de/sfb_maki/ueber_maki/index.de.jsp)**. Prior to Ph.D., I worked as a **Software Developer** at **axxessio GmbH** in Darmstadt, engaging in applied research and development in the fields of Internet of Things (IoT), Smart City Solutions, and Voice Assistants.
 
 I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with **Prof. Dr.-Ing. Michael Zink** from the **University of Massachusetts Amherst (USA)**.
 
@@ -47,7 +47,7 @@ Experience
         <p><em>06/2021 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.cs.rug.nl/ds/">Distributed Systems Group</a>, Faculty of Science and Engineering - University of Groningen, Netherlands 🇳🇱 </p>
       </li>
       <li>
-        <p><em>03/2017 – 07/2023:</em> <strong>Assoicate Team Lead and Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
+        <p><em>03/2017 – 07/2023:</em> <strong>Associate Team Lead and Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
         <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
       </li>
       <li>
@@ -89,9 +89,6 @@ Education
 </section>
 
 
-
-
-
 Current Projects
 -----
 [DFG: Collaborative Research Centre 1053 MAKI](https://www.maki.tu-darmstadt.de/sfb
@@ -107,7 +104,11 @@ achieve a significant increase in the quality of service under dynamically varyi
 Recent Publication
 -----
 
-Agnihotri, Pratyush and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. (2025). &quot;**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion), June 22--27, 2025, Berlin, Germany</i>.
+* <b>Agnihotri, Pratyush</b> and Binnig, Carsten. (2025). &quot;**Demonstrating PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>SIGMOD 2025</i>.
+
+* <b>Agnihotri, Pratyush</b> and Koldehofe, Boris and Stiegele, Paul and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. &quot;**ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing.**&quot; <i>IEEE ICDE 2024</i>.
+
+* <b>Agnihotri, Pratyush</b> and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. &quot;**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>TPCTC@VLDB 2024</i>.
 
 [Previous publications](https://pratyushagnihotri.github.io/publications/)
 
