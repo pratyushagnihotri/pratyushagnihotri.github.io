@@ -13,7 +13,7 @@ I recently completed my Ph.D. in ETiT department at TU Darmstadt, where my resea
 
 From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia Communication Lab (KOM)** at TU Darmstadt, contributing primarily to the **C2 subproject** of the **DFG Collaborative Research Center [MAKI](https://www.maki.tu-darmstadt.de/sfb_maki/ueber_maki/index.de.jsp)**. Prior to Ph.D., I worked as a **Software Developer** at **axxessio GmbH** in Darmstadt, engaging in applied research and development in the fields of Internet of Things (IoT), Smart City Solutions, and Voice Assistants.
 
-I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with **Prof. Dr.-Ing. Michael Zink** from the **University of Massachusetts Amherst (USA)**.
+I began my academic journey by joining the Master’s program in **Computer Science** at **TU Darmstadt** in 2013. My Master's thesis involved proposing and developing a **decentralized crowd-sensing data collection** framework based on **Information-Centric Networking (ICN)** to address **post-disaster communication** challenges. This work was conducted in close collaboration with <a href="https://www.mikezink.net/">**Prof. Dr.-Ing. Michael Zink**</a> from the **University of Massachusetts Amherst (USA)**.
 
 Research Interests
 ------
@@ -32,10 +32,10 @@ Experience
     <!--<h3 class="section-title">Experience</h3>-->
     <hr>
     <ul>
-      <li>
+      <!--<li>
         <p><em>TBD:</em> <strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI</a>, Germany 🇩🇪 </p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
-      </li>
+      </li>-->
       <li>
         <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 </p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
