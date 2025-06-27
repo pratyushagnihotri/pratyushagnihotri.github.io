@@ -9,7 +9,7 @@ redirect_from:
 
 **Researching AI. Developing Distributed Stream Processing. Impacting Systems. Educating the Next Generation.**
 
-I am **Senior Researcher** at Systems AI for Decision Support (SAIDE) research department, 
+I am a **Senior Researcher** at Systems AI for Decision Support (SAIDE) research department, 
 German Research Center for Artificial Intelligence (DFKI). DFKI is Germany’s leading AI research institute, and one of the largest non-profit AI research centers in the world. At DFKI, I’m leading the federal ministry funded project. My work here focuses on designing and evaluating energy-efficient LLM architectures, especially for industrial environments. 
 In addition, I am working as **Postdoctoral Reseacher** at Systems Group at TU Darmstadt.
 Previously, I completed my Ph.D. in ETiT department at TU Darmstadt, where my research focused on **Distributed Stream Processing**, **AI-driven Optimization Models**, and **Efficient System Design for Heterogeneous Environments**.
