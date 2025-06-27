@@ -9,7 +9,10 @@ redirect_from:
 
 **Researching AI. Developing Distributed Stream Processing. Impacting Systems. Educating the Next Generation.**
 
-I recently completed my Ph.D. in ETiT department at TU Darmstadt, where my research focused on **Distributed Stream Processing**, **AI-driven Optimization Models**, and **Efficient System Design for Heterogeneous Environments**.
+I am **Senior Researcher** at Systems AI for Decision Support (SAIDE) research department, 
+German Research Center for Artificial Intelligence (DFKI). DFKI is Germany’s leading AI research institute, and one of the largest non-profit AI research centers in the world. At DFKI, I’m leading the federal ministry funded project. My work here focuses on designing and evaluating energy-efficient LLM architectures, especially for industrial environments. 
+In addition, I am working as **Postdoctoral Reseacher** at Systems Group at TU Darmstadt.
+Previously, I completed my Ph.D. in ETiT department at TU Darmstadt, where my research focused on **Distributed Stream Processing**, **AI-driven Optimization Models**, and **Efficient System Design for Heterogeneous Environments**.
 
 From June 2021 to 2024, I worked as a **Research Scientist** at the **Multimedia Communication Lab (KOM)** at TU Darmstadt, contributing primarily to the **C2 subproject** of the **DFG Collaborative Research Center [MAKI](https://www.maki.tu-darmstadt.de/sfb_maki/ueber_maki/index.de.jsp)**. Prior to Ph.D., I worked as a **Software Developer** at **axxessio GmbH** in Darmstadt, engaging in applied research and development in the fields of Internet of Things (IoT), Smart City Solutions, and Voice Assistants.
 
@@ -32,10 +35,11 @@ Experience
     <!--<h3 class="section-title">Experience</h3>-->
     <hr>
     <ul>
-      <!--<li>
-        <p><em>TBD:</em> <strong>Postdoctoral Researcher</strong> at <a href="https://dfki.de/">DFKI</a>, Germany 🇩🇪 </p>
-        <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
-      </li>-->
+      <li>
+        <p><em>06/2025 (Current):</em> <strong>Senior Researcher</strong> at <a href="https://dfki.de/">SAIDE Lab, DFKI GmbH</a>, Germany 🇩🇪 </p>
+        <p>Leading the federal ministry funded project which focuses on designing and evaluating energy-efficient LLM architectures for industrial environments. </p>
+        <p>In parallel, I am also working as a <b>Postdoctoral Researcher</b> in the Systems Group at TU Darmstadt.</p>
+      </li>
       <li>
         <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 </p>
         <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
@@ -118,7 +122,7 @@ Academic Services
 <ul>
   <li><strong>2025</strong>
     <ul>
-      <li><strong>PC Member:</strong> DE4DS @ BTW, aiDM @ SIGMOD</li>
+      <li><strong>PC Member:</strong> DE4DS @ BTW, aiDM @ SIGMOD, TPCTC@VLDB</li>
     </ul>
   </li>
   <li><strong>2024</strong>
