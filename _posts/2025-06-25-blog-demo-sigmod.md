@@ -9,3 +9,5 @@ tags:
 ---
  
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7344735469068296192?collapsed=1" height="646" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7344735471152865280?collapsed=1" height="646" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
