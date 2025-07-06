@@ -8,7 +8,7 @@ date: 2017-10-01
 #venue: '2017 IEEE 42nd Conference on Local Computer Networks (LCN)'
 #slidesurl: 'http://pratyushagnihotri.github.io/files/slides1.pdf'
 paperurl: 'http://pratyushagnihotri.github.io/files/efficientCrowdSensing.pdf'
-bibtexurl: 'http://pratyushagnihotri.github.io/files/efficientCrowdSensing.bib'
+bibtexurl: 'https://ieeexplore.ieee.org/document/8109329'
 citation: 'Nguyen, The An Binh and <b> Agnihotri, Pratyush</b> and Meurisch, Christian and Luthra, Manisha and Dwarakanath, Rahul and Blendin, Jeremias and Böhnstedt, Doreen and Zink, Michael and Steinmetz, Ralf. (2017). &quot;Efficient Crowd Sensing Task Distribution Through Context-Aware NDN-Based Geocast.&quot; <i>2017 IEEE 42nd Conference on Local Computer Networks (LCN)</i>.'
 
 ---
