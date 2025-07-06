@@ -8,7 +8,6 @@ tags:
   - category2
 ---
 I had the incredible opportunity to present our paper, "ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing," at an A* venue IEEE ICDE Conference 2024 🎉
-
 <p>
   <img src="/images/icde-zerotune.jpeg" alt="ICDE Zerotune" width="504" style="border-radius: 8px;" />
 </p>
