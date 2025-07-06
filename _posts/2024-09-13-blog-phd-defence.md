@@ -7,7 +7,7 @@ tags:
   - category1
   - category2
 ---
-
+🌟 I am excited to announce that I have successfully completed my PhD defence! 😇
 <p>
   <img src="/images/phd-defence.jpeg" alt="PhD Defence Celebration" width="504" style="border-radius: 8px;" />
 </p>
