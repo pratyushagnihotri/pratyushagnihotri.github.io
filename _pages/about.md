@@ -20,7 +20,7 @@ I began my academic journey by joining the Master’s program in **Computer Scie
 
 Research Interests
 ------
-* Distributed Stream Processing
+* Distributed and Resource-efficient Stream Processing
 * Autonomous Resource Management
 * Performance Benchmarking and Optimization
 * Heterogenous Cloud Environment
@@ -36,7 +36,7 @@ Experience
     <hr>
     <ul>
       <li>
-        <p><em>06/2025 (Current):</em> <strong>Senior Researcher</strong> at <a href="https://dfki.de/">SAIDE Lab, DFKI GmbH</a>, Germany 🇩🇪 </p>
+        <p><em>06/2025 (Current):</em> <strong>Senior Researcher</strong> at <a href="https://www.dfki.de/web/forschung/forschungsbereiche/systemische-ki-fuer-entscheidungsunterstuetzung">SAIDE Lab, DFKI GmbH</a>, Germany 🇩🇪 </p>
         <p>Leading the federal ministry funded project which focuses on designing and evaluating energy-efficient LLM architectures for industrial environments. </p>
         <p>In parallel, I am also working as a <b>Postdoctoral Researcher</b> in the Systems Group at TU Darmstadt.</p>
       </li>
