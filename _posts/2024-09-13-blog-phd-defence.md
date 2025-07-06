@@ -9,7 +9,7 @@ tags:
 ---
 
 <p>
-  <img src="/assets/images/phd-defence.jpeg" alt="PhD Defence Celebration" width="504" style="border-radius: 8px;" />
+  <img src="/images/phd-defence.jpeg" alt="PhD Defence Celebration" width="504" style="border-radius: 8px;" />
 </p>
 
 🌟 I am excited to announce that I have successfully completed my PhD defence! 😇
