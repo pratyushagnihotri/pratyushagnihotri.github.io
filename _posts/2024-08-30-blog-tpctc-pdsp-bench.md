@@ -1,5 +1,5 @@
 ---
-title: 'PhD Defence'
+title: 'PDPS-Bench TPCTC2024@VLDB'
 date: 2024-08-30
 permalink: /posts/2024/08/blog-tpctc-pdsp-bench/
 tags:
@@ -18,4 +18,4 @@ tags:
 
 👉 [See the full update on LinkedIn](https://www.linkedin.com/posts/pratyushagnihotri_tpctc-vldb-alibaba-activity-7236353083415367680-Gdga?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJPxx4BsG_t_IY9Z1EjS-M-nALwbBljx6c)
 
-Thank you to everyone who has been part of this journey!
+👉 [Our paper:](https://www.kom.tu-darmstadt.de/assets/f19dbaab-8410-4b9d-8350-4b181008a376/AKHBL24.pdf)
