@@ -8,7 +8,9 @@ tags:
   - category2
 ---
 
-![PhD Defence Celebration](/images/phd-defence.jpeg)
+<p>
+  <img src="/assets/images/phd-defence.png" alt="PhD Defence Celebration" width="504" style="border-radius: 8px;" />
+</p>
 
 🌟 I am excited to announce that I have successfully completed my PhD defence! 😇
 
