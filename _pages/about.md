@@ -107,6 +107,8 @@ achieve a significant increase in the quality of service under dynamically varyi
 Recent Publication
 -----
 
+* <b>Agnihotri, Pratyush</b>, Binnig, Carsten, and Luthra, Manisha. (2025). &quot;**Learning What Matters: Automatic Feature Selection for Learned Cost Models for Parallel Stream Processing.**&quot; <i>AIDB@VLDB 2025</i>.
+
 * <b>Agnihotri, Pratyush</b> and Binnig, Carsten. (2025). &quot;**Demonstrating PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>SIGMOD 2025</i>.
 
 * <b>Agnihotri, Pratyush</b> and Koldehofe, Boris and Stiegele, Paul and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. &quot;**ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing.**&quot; <i>IEEE ICDE 2024</i>.
