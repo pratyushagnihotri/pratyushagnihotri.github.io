@@ -1,5 +1,5 @@
 ---
-title: "Demonstration PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing"
+title: "Learning What Matters: Automated Feature Selection for Learned Performance Models in Parallel Stream Processing"
 collection: publications
 category: conferences
 permalink: /publication/2025-automaticfeatureSelectionAIDBVLDB
@@ -9,5 +9,5 @@ date: 2025-09-01
 #slidesurl: 'http://pratyushagnihotri.github.io/files/slides1.pdf'
 paperurl: 'https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_3.pdf'
 bibtexurl: 'https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_3.pdf'
-citation: '<b>Agnihotri, Pratyush</b> and Binnig, Carsten. (2025). &quot; Demonstrating PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.&quot; <i>Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion), June 22--27, 2025, Berlin, Germany</i>.'
+citation: '<b>Agnihotri, Pratyush</b>, Binnig, Carsten and Luthra, Manisha. (2025). &quot; Learning What Matters: Automated Feature Selection for Learned Performance Models in Parallel Stream Processing.&quot; <i>VLDB 2025 Workshop: Applied AI for Database Systems and Applications (AIDB 2025), September 01--05, 2025, London, United Kingdom</i>.'
 ---
