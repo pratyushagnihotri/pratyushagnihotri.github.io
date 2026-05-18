@@ -124,6 +124,11 @@ Academic Services
 ------
 
 <ul>
+  <li><strong>2026</strong>
+    <ul>
+      <li><strong>PC Member:</strong> EDBT Demo Track</li>
+    </ul>
+  </li>
   <li><strong>2025</strong>
     <ul>
       <li><strong>PC Member:</strong> DE4DS @ BTW, aiDM @ SIGMOD, TPCTC@VLDB</li>
