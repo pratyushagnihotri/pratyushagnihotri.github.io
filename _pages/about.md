@@ -20,6 +20,7 @@ I began my academic journey by joining the Master’s program in **Computer Scie
 
 Research Interests
 ------
+* Sustainable AI-based Data Systems
 * Distributed and Resource-efficient Stream Processing
 * Autonomous Resource Management
 * Performance Benchmarking and Optimization
@@ -106,6 +107,8 @@ achieve a significant increase in the quality of service under dynamically varyi
 
 Recent Publication
 -----
+
+* <b>Agnihotri, Pratyush</b>, Luthra, Manisha and Binnig, Carsten. (2026). &quot;**EcoLLM: Energy-Aware Benchmarking of LLMs for Data ProcessingWorkloads.**&quot; <i>AIDM@SIGMOD 2026</i>.
 
 * <b>Agnihotri, Pratyush</b>, Binnig, Carsten, and Luthra, Manisha. (2025). &quot;**Learning What Matters: Automatic Feature Selection for Learned Cost Models for Parallel Stream Processing.**&quot; <i>AIDB@VLDB 2025</i>.
 
