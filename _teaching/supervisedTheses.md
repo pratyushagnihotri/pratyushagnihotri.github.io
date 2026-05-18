@@ -19,10 +19,16 @@ location: "Darmstadt, Germany"
 </thead>
 <tbody>
 <tr>
+  <td style="padding:8px;">Thilo Fiedler</td>
+  <td style="padding:8px;">Scalable Global Filtering On Fragmented Time Series Architectures</td>
+  <td style="padding:8px;">Master</td>
+  <td style="padding:8px;">2026</td>
+</tr>
+<tr>
   <td style="padding:8px;">Daniel Dirk</td>
   <td style="padding:8px;">Benchmarking Parallelism and Heterogeneity in Distributed Stream Processing</td>
   <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2024</td>
+  <td style="padding:8px;">2025</td>
 </tr>
 <tr>
   <td style="padding:8px;">Mizuki Hashimoto</td>
@@ -31,10 +37,34 @@ location: "Darmstadt, Germany"
   <td style="padding:8px;">2024</td>
 </tr>
 <tr>
+  <td style="padding:8px;">Shubham Sumalya</td>
+  <td style="padding:8px;">Benchmarking Parallel Stream Processing</td>
+  <td style="padding:8px;">Master</td>
+  <td style="padding:8px;">2023</td>
+</tr>
+<tr>
   <td style="padding:8px;">Paul Stiegele</td>
   <td style="padding:8px;">Learned Parallel Stream Processing</td>
   <td style="padding:8px;">Master</td>
   <td style="padding:8px;">2022</td>
+</tr>
+<tr>
+  <td style="padding:8px;">Chengbo Zhou</td>
+  <td style="padding:8px;">Cooperative ML-based NIDS between the data and control plane in SDN</td>
+  <td style="padding:8px;">Master</td>
+  <td style="padding:8px;">2022</td>
+</tr>
+<tr>
+  <td style="padding:8px;">William Laarakkers (University of Groningen, Netherlands)</td>
+  <td style="padding:8px;">Scalable and Efficient Processing of Financial Data using CEP </td>
+  <td style="padding:8px;">Bachelor</td>
+  <td style="padding:8px;">2022</td>
+</tr>
+<tr>
+  <td style="padding:8px;">Caroline Braams (University of Groningen, Netherlands)</td>
+  <td style="padding:8px;">Securing publish/subscribe in software-defined networks </td>
+  <td style="padding:8px;">Master</td>
+  <td style="padding:8px;">2021</td>
 </tr>
 </tbody>
 </table>
