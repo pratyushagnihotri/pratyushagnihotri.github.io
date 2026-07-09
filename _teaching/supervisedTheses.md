@@ -19,10 +19,34 @@ location: "Darmstadt, Germany"
 </thead>
 <tbody>
 <tr>
-  <td style="padding:8px;">Thilo Fiedler</td>
-  <td style="padding:8px;">Scalable Global Filtering On Fragmented Time Series Architectures</td>
+  <td style="padding:8px;">Arda Atalay</td>
+  <td style="padding:8px;">Benchmarking SQL-Based AI Functions in Property Databases</td>
+  <td style="padding:8px;">Bachelor</td>
+  <td style="padding:8px;">2026</td>
+</tr>
+<tr>
+  <td style="padding:8px;">Lukas Ackermann</td>
+  <td style="padding:8px;">Conceptualization and Development of Plausibility Checks for Energy Data Using Large Language Models. Co-supervising with Timo Eckmann (Ph.D) and Jan-Micha Bodensohn (Ph.D.), Systems Group, TU Darmstadt</td>
   <td style="padding:8px;">Master</td>
   <td style="padding:8px;">2026</td>
+</tr>
+<tr>
+  <td style="padding:8px;">Tobias Brüntgens</td>
+  <td style="padding:8px;">Conceptualization and Development of Plausibility Checks for Energy Data Using Large Language Models. Co-supervising with Ann-Kathrin Bischoff (Ph.D), PTW, TU Darmstadt and Merck</td>
+  <td style="padding:8px;">Master</td>
+  <td style="padding:8px;">2026</td>
+</tr>
+<tr>
+  <td style="padding:8px;">Thilo Fiedler</td>
+  <td style="padding:8px;">Scalable Global Filtering On Fragmented Time Series Architectures. Co-supervising with Julian Goede, etalytics</td>
+  <td style="padding:8px;">Master</td>
+  <td style="padding:8px;">2026</td>
+</tr>
+<tr>
+  <td style="padding:8px;">Tilman Niem</td>
+  <td style="padding:8px;">Using Large Language Models for Intuitive Creation of Complex Analyses via the Model Context Protocol. Co-supervising with Heiko Ranzau, etalytics</td>
+  <td style="padding:8px;">Bachelor</td>
+  <td style="padding:8px;">2025</td>
 </tr>
 <tr>
   <td style="padding:8px;">Daniel Dirk</td>

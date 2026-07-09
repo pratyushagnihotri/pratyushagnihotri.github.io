@@ -10,6 +10,8 @@ location: "Darmstadt, Germany"
 
 | Student(s)           | Title                                                    | Type         | Year  |
 |----------------------|-----------------------------------------------------------|--------------|-------|
+| Alankrit, Guillem, Sören, Obaid | GreenQuery (Lab): Sustainable LLM-Based Query Planning for Multi-Modal Data
+ | Lab          | 2026  |
 | Michael, Paula, Katrin, Rafik | Parallel and Distributed Streaming Benchmarking | Lab          | 2024  |
 | Rhivu                | Auto-Scaling for Distributed Stream Processing using Reinforcement Learning | Lab | 2024  |
 | Hamna (TU Ilmenau)   | Efficient Memory Management for Large Language Model Serving with PagedAttention | Seminar | 2023  |
