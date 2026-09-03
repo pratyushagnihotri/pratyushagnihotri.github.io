@@ -3,6 +3,25 @@
    ========================================================================== */
 
 .teach-page {
+  .archive__item-title {
+    margin-top: 2em;
+    padding-bottom: 0.4em;
+    font-size: $type-size-4;
+    border-bottom: 1px solid var(--global-border-color);
+
+    a {
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .archive__item:first-of-type .archive__item-title {
+    margin-top: 0;
+  }
+
   table {
     width: 100%;
     margin: 0.5em 0 2em;
