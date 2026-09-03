@@ -2,7 +2,7 @@
 title: "Demonstration PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing"
 collection: publications
 category: conferences
-permalink: /publication/2024-pdspbench
+permalink: /publication/2025-demoPDSPBench
 #excerpt: 'This paper is about the number 1. 📄 [PDF](http://academicpages.github.io/files/paper1.pdf) | 📚 [BibTeX](http://academicpages.github.io/files/bibtex1.bib)'
 date: 2025-06-01
 #venue: 'arXiv preprint arXiv:2504.10704'
