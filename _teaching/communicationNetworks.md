@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: ""
+type: "Bachelor and Masters courses"
 permalink: /teaching/communicationNetworks
-venue: ""
-date: 
+venue: "TU Darmstadt"
+date: 2025-06-01
 location: "Darmstadt, Germany"
 ---
 
