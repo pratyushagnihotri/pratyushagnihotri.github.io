@@ -1,0 +1,30 @@
+{% include base_path %}
+
+<article class="pub-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="pub-card__top">
+    <h3 class="pub-card__title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h3>
+    {% if post.category and site.publication_category[post.category] %}
+      <span class="pub-card__badge">{{ site.publication_category[post.category].title }}</span>
+    {% endif %}
+  </div>
+
+  {% if post.citation %}
+    <p class="pub-card__citation">{{ post.citation }}</p>
+  {% endif %}
+
+  {% if post.paperurl or post.slidesurl or post.bibtexurl %}
+    <div class="pub-card__links">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>
+      {% endif %}
+      {% if post.slidesurl %}
+        <a href="{{ post.slidesurl }}" target="_blank" rel="noopener">Slides</a>
+      {% endif %}
+      {% if post.bibtexurl and post.bibtexurl != post.paperurl %}
+        <a href="{{ post.bibtexurl }}" target="_blank" rel="noopener">BibTeX</a>
+      {% endif %}
+    </div>
+  {% endif %}
+</article>
