@@ -8,87 +8,87 @@ date: 2021-06-01
 location: "Darmstadt, Germany"
 ---
 
-<table style="width:100%; border-collapse: collapse; margin-top:20px;">
-<thead style="background-color: #f2f2f2;">
+<table>
+<thead>
 <tr>
-  <th style="padding:10px; text-align:left; border-bottom: 2px solid #ddd;">Student Name</th>
-  <th style="padding:10px; text-align:left; border-bottom: 2px solid #ddd;">Title</th>
-  <th style="padding:10px; text-align:left; border-bottom: 2px solid #ddd;">Type</th>
-  <th style="padding:10px; text-align:left; border-bottom: 2px solid #ddd;">Year</th>
+  <th>Student Name</th>
+  <th>Title</th>
+  <th>Type</th>
+  <th>Year</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td style="padding:8px;">Arda Atalay</td>
-  <td style="padding:8px;">Benchmarking SQL-Based AI Functions in Property Databases</td>
-  <td style="padding:8px;">Bachelor</td>
-  <td style="padding:8px;">2026</td>
+  <td>Arda Atalay</td>
+  <td>Benchmarking SQL-Based AI Functions in Property Databases</td>
+  <td>Bachelor</td>
+  <td>2026</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Lukas Ackermann</td>
-  <td style="padding:8px;">Conceptualization and Development of Plausibility Checks for Energy Data Using Large Language Models. Co-supervising with Timo Eckmann (Ph.D) and Jan-Micha Bodensohn (Ph.D.), Systems Group, TU Darmstadt</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2026</td>
+  <td>Lukas Ackermann</td>
+  <td>Conceptualization and Development of Plausibility Checks for Energy Data Using Large Language Models. Co-supervising with Timo Eckmann (Ph.D) and Jan-Micha Bodensohn (Ph.D.), Systems Group, TU Darmstadt</td>
+  <td>Master</td>
+  <td>2026</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Tobias Brüntgens</td>
-  <td style="padding:8px;">Conceptualization and Development of Plausibility Checks for Energy Data Using Large Language Models. Co-supervising with Ann-Kathrin Bischoff (Ph.D), PTW, TU Darmstadt and Merck</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2026</td>
+  <td>Tobias Brüntgens</td>
+  <td>Conceptualization and Development of Plausibility Checks for Energy Data Using Large Language Models. Co-supervising with Ann-Kathrin Bischoff (Ph.D), PTW, TU Darmstadt and Merck</td>
+  <td>Master</td>
+  <td>2026</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Thilo Fiedler</td>
-  <td style="padding:8px;">Scalable Global Filtering On Fragmented Time Series Architectures. Co-supervising with Julian Goede, etalytics</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2026</td>
+  <td>Thilo Fiedler</td>
+  <td>Scalable Global Filtering On Fragmented Time Series Architectures. Co-supervising with Julian Goede, etalytics</td>
+  <td>Master</td>
+  <td>2026</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Tilman Niem</td>
-  <td style="padding:8px;">Using Large Language Models for Intuitive Creation of Complex Analyses via the Model Context Protocol. Co-supervising with Heiko Ranzau, etalytics</td>
-  <td style="padding:8px;">Bachelor</td>
-  <td style="padding:8px;">2025</td>
+  <td>Tilman Niem</td>
+  <td>Using Large Language Models for Intuitive Creation of Complex Analyses via the Model Context Protocol. Co-supervising with Heiko Ranzau, etalytics</td>
+  <td>Bachelor</td>
+  <td>2025</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Daniel Dirk</td>
-  <td style="padding:8px;">Benchmarking Parallelism and Heterogeneity in Distributed Stream Processing</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2025</td>
+  <td>Daniel Dirk</td>
+  <td>Benchmarking Parallelism and Heterogeneity in Distributed Stream Processing</td>
+  <td>Master</td>
+  <td>2025</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Mizuki Hashimoto</td>
-  <td style="padding:8px;">Feature Selection Strategies for Parallel Stream Processing</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2024</td>
+  <td>Mizuki Hashimoto</td>
+  <td>Feature Selection Strategies for Parallel Stream Processing</td>
+  <td>Master</td>
+  <td>2024</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Shubham Sumalya</td>
-  <td style="padding:8px;">Benchmarking Parallel Stream Processing</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2023</td>
+  <td>Shubham Sumalya</td>
+  <td>Benchmarking Parallel Stream Processing</td>
+  <td>Master</td>
+  <td>2023</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Paul Stiegele</td>
-  <td style="padding:8px;">Learned Parallel Stream Processing</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2022</td>
+  <td>Paul Stiegele</td>
+  <td>Learned Parallel Stream Processing</td>
+  <td>Master</td>
+  <td>2022</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Chengbo Zhou</td>
-  <td style="padding:8px;">Cooperative ML-based NIDS between the data and control plane in SDN</td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2022</td>
+  <td>Chengbo Zhou</td>
+  <td>Cooperative ML-based NIDS between the data and control plane in SDN</td>
+  <td>Master</td>
+  <td>2022</td>
 </tr>
 <tr>
-  <td style="padding:8px;">William Laarakkers (University of Groningen, Netherlands)</td>
-  <td style="padding:8px;">Scalable and Efficient Processing of Financial Data using CEP </td>
-  <td style="padding:8px;">Bachelor</td>
-  <td style="padding:8px;">2022</td>
+  <td>William Laarakkers (University of Groningen, Netherlands)</td>
+  <td>Scalable and Efficient Processing of Financial Data using CEP </td>
+  <td>Bachelor</td>
+  <td>2022</td>
 </tr>
 <tr>
-  <td style="padding:8px;">Caroline Braams (University of Groningen, Netherlands)</td>
-  <td style="padding:8px;">Securing publish/subscribe in software-defined networks </td>
-  <td style="padding:8px;">Master</td>
-  <td style="padding:8px;">2021</td>
+  <td>Caroline Braams (University of Groningen, Netherlands)</td>
+  <td>Securing publish/subscribe in software-defined networks </td>
+  <td>Master</td>
+  <td>2021</td>
 </tr>
 </tbody>
 </table>
