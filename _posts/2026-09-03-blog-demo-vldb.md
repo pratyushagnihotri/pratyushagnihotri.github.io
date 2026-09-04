@@ -1,5 +1,5 @@
 ---
-title: 'Winning Best Demo Award @VLDB 2026!'
+title: '🏆 Best Demo Award at VLDB 2026!'
 date: 2026-09-03
 permalink: /posts/2026/09/blog-demo-vldb/
 tags:
