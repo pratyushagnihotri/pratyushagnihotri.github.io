@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Invited Talks and Conference Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+{% include base_path %}
 
 {% if site.talkmap_link == true %}
 
@@ -11,6 +13,17 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% assign talks_by_year = site.talks | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign talks_by_year = talks_by_year | sort: "name" | reverse %}
+
+<div class="talks-page">
+  {% for year in talks_by_year %}
+    <h2 class="pub-year">{{ year.name }}</h2>
+    <div class="talk-group">
+      {% assign year_items = year.items | sort: "date" | reverse %}
+      {% for post in year_items %}
+        {% include archive-single-talk.html %}
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>

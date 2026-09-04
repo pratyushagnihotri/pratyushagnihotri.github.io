@@ -9,56 +9,132 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+
+<section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
+  <div class="section-row">
+    <ul>
+      <li>
+        <p><em>06/2025 (Current):</em> <strong>Deputy Head</strong> at <a href="https://www.dfki.de/web/forschung/forschungsbereiche/systemische-ki-fuer-entscheidungsunterstuetzung">SAIDE Lab, DFKI GmbH</a>, Germany 🇩🇪 </p>
+        <p>Leading the federal ministry funded project which focuses on designing and evaluating energy-efficient LLM architectures for industrial environments. </p>
+        <p>In parallel, I am also working as a <b>Postdoctoral Researcher</b> in the Systems Group at TU Darmstadt.</p>
+      </li>
+      <li>
+        <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 </p>
+        <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
+      </li>
+      <li>
+        <p><em>01/2023 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-informatik-und-automatisierung/profil/institute-und-fachgebiete/institut-fuer-praktische-informatik/fachgebiet-verteilte-systeme-und-betriebssysteme">Distributed and Operating Systems Group</a>, TU Ilmenau, Germany 🇩🇪 </p>
+      </li>
+      <li>
+        <p><em>06/2021 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.cs.rug.nl/ds/">Distributed Systems Group</a>, Faculty of Science and Engineering - University of Groningen, Netherlands 🇳🇱 </p>
+      </li>
+      <li>
+        <p><em>03/2017 – 07/2023:</em> <strong>Associate Team Lead and Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
+        <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
+      </li>
+      <li>
+        <p><em>10/2014 – 02/2017:</em> <strong>Graduate Student Assistant</strong> at <a href="https://www.informatik.tu-darmstadt.de/telekooperation/">Telecooperation Group – TU Darmstadt</a></p>
+        <p>Assisted in teaching and research for distributed systems and IoT applications.</p>
+      </li>
+      <li>
+        <p><em>06/2014 – 12/2016:</em> <strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany</p>
+        <p>Led QA and automation for secure web servers and enterprise mobile applications in finance/retail sectors.</p>
+      </li>
+      <li>
+        <p><em>08/2010 – 09/2013:</em> <strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India 🇮🇳</p>
+        <p>Developed embedded and mobile applications for consumer electronics and telecom clients including Sony and NTTDocomo.</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
+  <div class="section-row">
+    <ul>
+      <li>
+        <p><em>06/2021 – 09/2024:</em> <strong>Ph.D. in ETiT</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪 </p>
+        <p>Focused on performance modeling and optimization of distributed stream processing systems.</p>
+      </li>
+      <li>
+        <p><em>10/2013 – 11/2016:</em> <strong>Master’s in Computer Science</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
+        <p>Master thesis on decentralized crowd-sensing data collection using ICN, in collaboration with UMass Amherst.</p>
+      </li>
+      <li>
+        <p><em>07/2006 – 06/2010:</em> <strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳 </p>
+        <p>Graduated with distinction and completed foundational training in distributed systems and software engineering.</p>
+      </li>
+    </ul>
+  </div>
+</section>
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% assign recent_publications = site.publications | sort: "date" | reverse %}{% for post in recent_publications limit: 3 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+[View all publications →](/publications/)
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+[View all teaching →](/teaching/)
+
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+
+<ul>
+  <li><strong>2026</strong>
+    <ul>
+      <li><strong>PC Member:</strong> EDBT Demo Track, TPCTC@VLDB</li>
+    </ul>
+  </li>
+  <li><strong>2025</strong>
+    <ul>
+      <li><strong>PC Member:</strong> DE4DS@BTW, aiDM@SIGMOD, TPCTC@VLDB</li>
+    </ul>
+  </li>
+  <li><strong>2024</strong>
+    <ul>
+      <li><strong>External Reviewer:</strong> VLDB (Demo Track), DEBS, Middleware</li>
+    </ul>
+  </li>
+  <li><strong>2023</strong>
+    <ul>
+      <li><strong>External Reviewer:</strong> IFIP Networking Conference</li>
+    </ul>
+  </li>
+  <li><strong>2022</strong>
+    <ul>
+      <li><strong>Reviewer:</strong> PeerJ Journal</li>
+      <li><strong>External Reviewer:</strong> IEEE Fog & Edge, Middleware (22nd & 23rd), EdgeSys 2022</li>
+      <li><strong>Web Co-Chair:</strong> 23rd ACM/IFIP Middleware</li>
+    </ul>
+  </li>
+  <li><strong>2021</strong>
+    <ul>
+      <li><strong>Web Co-Chair:</strong> 22nd ACM/IFIP Middleware</li>
+    </ul>
+  </li>
+  <li><strong>2020</strong>
+    <ul>
+      <li><strong>Registration Co-Chair:</strong> 14th ACM DEBS</li>
+    </ul>
+  </li>
+  <li><strong>2019</strong>
+    <ul>
+      <li><strong>Web Co-Chair:</strong> 13th ACM DEBS</li>
+    </ul>
+  </li>
+  <li><strong>2010</strong>
+    <ul>
+      <li><strong>Web Co-Chair:</strong> IEEE Confluence, IEEE MECON</li>
+    </ul>
+  </li>
+</ul>

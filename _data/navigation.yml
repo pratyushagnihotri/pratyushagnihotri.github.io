@@ -16,21 +16,21 @@ main:
 
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
-  
-  #- title: "Talks"
-  #  url: /talks/ 
-            
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Blog Posts"
     url: /year-archive/
 
   #- title: "Portfolio"
   #  url: /portfolio/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
+
+  - title: "CV"
+    url: /cv/
+
   # - title: "CV"
   #   url: /cv-json/
     

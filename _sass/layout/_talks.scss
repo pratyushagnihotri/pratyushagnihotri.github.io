@@ -1,0 +1,102 @@
+/* ==========================================================================
+   TALKS
+   ========================================================================== */
+
+.talks-page {
+  .talk-group {
+    margin-bottom: 1em;
+  }
+
+  .talk-item {
+    display: grid;
+    grid-template-columns: 140px 24px 1fr;
+    padding-bottom: 2em;
+  }
+
+  .talk-group .talk-item:last-child {
+    padding-bottom: 0;
+  }
+
+  .talk-meta-col {
+    padding-top: 0.15em;
+    padding-right: 1em;
+    text-align: right;
+  }
+
+  .talk-date {
+    font-size: $type-size-6;
+    font-weight: 600;
+    color: var(--global-text-color);
+    white-space: nowrap;
+  }
+
+  .talk-badge {
+    display: inline-block;
+    margin-top: 0.4em;
+    padding: 0.15em 0.6em;
+    font-size: $type-size-8;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light);
+    border: 1px solid var(--global-border-color);
+    border-radius: 999px;
+  }
+
+  .talk-dot-col {
+    position: relative;
+  }
+
+  .talk-dot-col::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 1px;
+    background: var(--global-border-color);
+  }
+
+  .talk-group .talk-item:last-child .talk-dot-col::before {
+    display: none;
+  }
+
+  .talk-dot-col::after {
+    content: "";
+    position: absolute;
+    top: 0.4em;
+    left: 50%;
+    width: 11px;
+    height: 11px;
+    margin-left: -5px;
+    border-radius: 50%;
+    background: var(--global-link-color);
+    border: 2px solid var(--global-bg-color);
+  }
+
+  .talk-content-col {
+    padding-bottom: 0.25em;
+  }
+
+  .talk-content-col .archive__item-title {
+    margin-top: 0;
+    font-size: $type-size-5;
+  }
+
+  .talk-title--paper {
+    font-style: italic;
+  }
+
+  .talk-host,
+  .talk-venue {
+    margin: 0.3em 0 0;
+    font-size: $type-size-6;
+    color: var(--global-text-color-light);
+  }
+
+  .talk-paper-link {
+    display: inline-block;
+    margin-top: 0.4em;
+    font-size: $type-size-6;
+    font-weight: 600;
+  }
+}

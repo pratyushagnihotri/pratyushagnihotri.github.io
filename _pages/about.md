@@ -30,84 +30,13 @@ Research Interests
 * Internet of Things (IoT)
 
 
-Experience
-------
-
-<section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
-  <div class="section-row">
-    <!--<h3 class="section-title">Experience</h3>-->
-    <hr>
-    <ul>
-      <li>
-        <p><em>06/2025 (Current):</em> <strong>Deputy Head</strong> at <a href="https://www.dfki.de/web/forschung/forschungsbereiche/systemische-ki-fuer-entscheidungsunterstuetzung">SAIDE Lab, DFKI GmbH</a>, Germany 🇩🇪 </p>
-        <p>Leading the federal ministry funded project which focuses on designing and evaluating energy-efficient LLM architectures for industrial environments. </p>
-        <p>In parallel, I am also working as a <b>Postdoctoral Researcher</b> in the Systems Group at TU Darmstadt.</p>
-      </li>
-      <li>
-        <p><em>06/2021 – 12/2024:</em> <strong>Research Scientist</strong> at <a href="https://www.kom.tu-darmstadt.de/">Multimedia Communication Lab</a>, TU Darmstadt, Germany 🇩🇪 </p>
-        <p>Working on AI-based cost models and adaptive stream processing for heterogeneous environments.</p>
-      </li>
-      <li>
-        <p><em>01/2023 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-informatik-und-automatisierung/profil/institute-und-fachgebiete/institut-fuer-praktische-informatik/fachgebiet-verteilte-systeme-und-betriebssysteme">Distributed and Operating Systems Group</a>, TU Ilmenau, Germany 🇩🇪 </p>
-      </li>
-      <li>
-        <p><em>06/2021 – 12/2024:</em> <strong>Associate Research Assistant</strong> at <a href="https://www.cs.rug.nl/ds/">Distributed Systems Group</a>, Faculty of Science and Engineering - University of Groningen, Netherlands 🇳🇱 </p>
-      </li>
-      <li>
-        <p><em>03/2017 – 07/2023:</em> <strong>Associate Team Lead and Technology Consultant</strong> at <a href="https://www.axxessio.com/">axxessio GmbH</a>, Darmstadt, Germany 🇩🇪 </p>
-        <p>Worked on smart city platforms, IoT solutions, and digitalization strategies across German municipalities and telecom sectors.</p>
-      </li>
-      <li>
-        <p><em>10/2014 – 02/2017:</em> <strong>Graduate Student Assistant</strong> at <a href="https://www.informatik.tu-darmstadt.de/telekooperation/">Telecooperation Group – TU Darmstadt</a></p>
-        <p>Assisted in teaching and research for distributed systems and IoT applications.</p>
-      </li>
-      <li>
-        <p><em>06/2014 – 12/2016:</em> <strong>Quality Engineer & Automation Developer</strong> at <a href="https://www.kobil.com/">Kobil System GmbH</a>, Darmstadt, Germany</p>
-        <p>Led QA and automation for secure web servers and enterprise mobile applications in finance/retail sectors.</p>
-      </li>
-      <li>
-        <p><em>08/2010 – 09/2013:</em> <strong>Software Engineer</strong> at <a href="https://www.hcltech.com/">HCL Technologies</a>, Noida, India 🇮🇳</p>
-        <p>Developed embedded and mobile applications for consumer electronics and telecom clients including Sony and NTTDocomo.</p>
-      </li>
-    </ul>
-    </div>
-</section>
-
-Education
-------
-
-<section class="project-wrapper single-col-max-width py-5 px-4 mx-auto">
-  <div class="section-row">
-    <ul>
-      <li>
-        <p><em>06/2021 – 09/2024:</em> <strong>Ph.D. in ETiT</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪 </p>
-        <p>Focused on performance modeling and optimization of distributed stream processing systems.</p>
-      </li>
-      <li>
-        <p><em>10/2013 – 11/2016:</em> <strong>Master’s in Computer Science</strong> at <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>, Germany 🇩🇪</p>
-        <p>Master thesis on decentralized crowd-sensing data collection using ICN, in collaboration with UMass Amherst.</p>
-      </li>
-      <li>
-        <p><em>07/2006 – 06/2010:</em> <strong>B.Tech in Computer Science & Engineering</strong> at <a href="https://www.amity.edu/">Amity University</a>, Noida, India 🇮🇳 </p>
-        <p>Graduated with distinction and completed foundational training in distributed systems and software engineering.</p>
-      </li>
-    </ul>
-  </div>
-</section>
-
+[Full CV: experience, education & academic service](https://pratyushagnihotri.github.io/cv/)
 
 Current Projects
 -----
-[etaGPT: LLM-Based Data Systems for Energy Data Understanding](https://www.maki.tu-darmstadt.de/forschung_maki/index.en.jsp) I am leading the federal ministry-funded etaGPT project at the German Research Center for Artificial Intelligence (DFKI). The goal of etaGPT is to build large language model-based data systems that can understand, interpret, and analyze complex energy data using expert-level language.
+I currently lead **[etaGPT](https://pratyushagnihotri.github.io/projects/etaGPT)**, a federal ministry-funded project at DFKI building LLM-based data systems for energy data understanding, and work as a researcher on **[DFG MAKI Subproject C2](https://pratyushagnihotri.github.io/projects/2021-maki-c2)**, exploring transition-aware adaptation for event-based systems.
 
-In real industrial environments, data comes in many formats, including sensor time series, knowledge graphs, inspection images, thermal data, maintenance logs, PDFs, tables, and reports. etaGPT enables users to ask questions in natural language, such as **How efficiently did our cooling system run last month?** The system interprets the question, identifies the relevant data sources, generates interactive dashboards, visualizes trends, highlights anomalies, and explains performance patterns. Over time, etaGPT aims to support optimization by identifying inefficiencies and suggesting operational or maintenance actions.
-
-
-[DFG: Collaborative Research Centre 1053 MAKI](https://www.maki.tu-darmstadt.de/forschung_maki/index.en.jsp) I am working as Researcher for MAKI Subproject C2 which explores transitions in communication systems from an information-centric view. A central paradigm for
-information processing are event-based systems (EBS), which model the information flow as streams of events and help to recognize certain patterns over the event streams at runtime. The goal of C2 is to explore methods for transition-based adaptation of event-processing systems and thereby
-achieve a significant increase in the quality of service under dynamically varying conditions.
-
-[Previous projects](https://pratyushagnihotri.github.io/projects/)
+[All projects](https://pratyushagnihotri.github.io/projects/)
 
 
 Recent Publication
@@ -119,66 +48,7 @@ Recent Publication
 
 * <b>Agnihotri, Pratyush</b> and Binnig, Carsten. (2025). &quot;**Demonstrating PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>SIGMOD 2025</i>.
 
-* <b>Agnihotri, Pratyush</b> and Koldehofe, Boris and Stiegele, Paul and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. &quot;**ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing.**&quot; <i>IEEE ICDE 2024</i>.
-
-* <b>Agnihotri, Pratyush</b> and Koldehofe, Boris and Heinrich, Roman and Binnig, Carsten and Luthra, Manisha. &quot;**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing.**&quot; <i>TPCTC@VLDB 2024</i>.
-
-[Previous publications](https://pratyushagnihotri.github.io/publications/)
-
-Academic Services
-------
-
-<ul>
-  <li><strong>2026</strong>
-    <ul>
-      <li><strong>PC Member:</strong> EDBT Demo Track, TPCTC@VLDB</li>
-    </ul>
-  </li>
-  <li><strong>2025</strong>
-    <ul>
-      <li><strong>PC Member:</strong> DE4DS@BTW, aiDM@SIGMOD, TPCTC@VLDB</li>
-    </ul>
-  </li>
-  <li><strong>2024</strong>
-    <ul>
-      <li><strong>External Reviewer:</strong> VLDB (Demo Track), DEBS, Middleware</li>
-    </ul>
-  </li>
-  <li><strong>2023</strong>
-    <ul>
-      <li><strong>External Reviewer:</strong> IFIP Networking Conference</li>
-    </ul>
-  </li>
-  <li><strong>2022</strong>
-    <ul>
-      <li><strong>Reviewer:</strong> PeerJ Journal</li>
-      <li><strong>External Reviewer:</strong> IEEE Fog & Edge, Middleware (22nd & 23rd), EdgeSys 2022</li>
-      <li><strong>Web Co-Chair:</strong> 23rd ACM/IFIP Middleware</li>
-    </ul>
-  </li>
-  <li><strong>2021</strong>
-    <ul>
-      <li><strong>Web Co-Chair:</strong> 22nd ACM/IFIP Middleware</li>
-    </ul>
-  </li>
-  <li><strong>2020</strong>
-    <ul>
-      <li><strong>Registration Co-Chair:</strong> 14th ACM DEBS</li>
-    </ul>
-  </li>
-  <li><strong>2019</strong>
-    <ul>
-      <li><strong>Web Co-Chair:</strong> 13th ACM DEBS</li>
-    </ul>
-  </li>
-  <li><strong>2010</strong>
-    <ul>
-      <li><strong>Web Co-Chair:</strong> IEEE Confluence, IEEE MECON</li>
-    </ul>
-  </li>
-</ul>
-
-
+[All publications](https://pratyushagnihotri.github.io/publications/)
 
 Current Teaching Activities
 -----
